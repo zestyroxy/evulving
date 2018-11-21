@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  "Being a Girl "
-date:   2018-11-20 6:55:42 +0200
+title:  "Evulving - Preface"
+date:   2018-11-26 6:55:42 +0200
 image:
 card: summary_large_image
-keywords:
+keywords: evulving, being a girl, sexism, everyday sexism
 ---
-Coming on Monday!
+First post will be posted on Monday, November 26!
