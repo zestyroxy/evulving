@@ -18,10 +18,11 @@ I want to point out that I cannot speak for most of the LGBTQAI+ community, alth
 
 Being marginialized isn’t easy. I have struggled simply because I am a woman. I have watched women around me encounter injustices, suffer various types of abuse, and struggle with simply existing in this world as the “lesser” sex. It affects us greatly. Especially when they are small occurrences because they seem harmless. The individual incidents seem so intrinsic to everyday life, you might not even notice them. As Laura Bates puts it in her book:
 
->“[...] it isn’t just about the individual incidents; it’s about the collective impact on everything else -- the way you think about yourself, the way you approach public spaces and human interactions, the limits you place on your own aspirations, and the things you stop yourself from doing before you even try because of bitter learned experiences.” (p. 309, Everyday Sexism)
-
-– *[Everyday Sexism](https://youtu.be/TSawMIjJUVA)*, Laura Bates, p.309
+>“[...] it isn’t just about the individual incidents; it’s about the collective impact on everything else -- the way you think about yourself, the way you approach public spaces and human interactions, the limits you place on your own aspirations, and the things you stop yourself from doing before you even try because of bitter learned experiences.”
+>– *[Everyday Sexism](https://youtu.be/TSawMIjJUVA)*, Laura Bates, p.309
 
 I do believe the world is changing, but I can’t tell if it’s for better or worse. When I read the news and see another oppressive male tyrant being nominated to run a country, I die a little.
 
 We cannot do this without collectively sharing our experiences and standing together. We may be called minorities but when together we form the majority. I know it’s hard, especially when the people you report it to dismiss it or tell you it’s your own fault. It’s not your fault and you need to stand up for yourself. If we all stand up, they’ll have no choice but to see us. They will undoubtedly shield their eyes and block our paths with nonsensical legislations or dismissive comments, but we won’t stop. To incorrectly quote Miley Cyrus: “We can’t stop”.
+
+Share your thoughts on social media #Evulving and follow [@Evulving](https://twitter.com/evulving) on Twitter.
