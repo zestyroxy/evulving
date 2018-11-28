@@ -2,7 +2,7 @@
 layout: page
 title:  "Evulving - Preface"
 date:   2018-11-26 9:27:42 +0200
-image:  /images/preface.jpg
+image: /images/preface.jpg
 card: summary_large_image
 keywords: evulving, being a girl, sexism, everyday sexism
 ---
