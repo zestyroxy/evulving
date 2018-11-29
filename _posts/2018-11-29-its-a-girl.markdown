@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "It's a girl!"
-date:   2018-11-30 12:25:42 +0200
+date:   2018-11-29 12:25:42 +0200
 image: /images/girl.jpg
 card: summary_large_image
 keywords: baby gender, gender norms, children labels, new moms, shaming mothers
