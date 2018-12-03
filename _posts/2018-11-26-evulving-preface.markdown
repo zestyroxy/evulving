@@ -25,4 +25,4 @@ I do believe the world is changing, but I can’t tell if it’s for better or w
 
 We cannot do this without collectively sharing our experiences and standing together. We may be called minorities but when together we form the majority. I know it’s hard, especially when the people you report it to dismiss it or tell you it’s your own fault. It’s not your fault and you need to stand up for yourself. If we all stand up, they’ll have no choice but to see us. They will undoubtedly shield their eyes and block our paths with nonsensical legislations or dismissive comments, but we won’t stop. To incorrectly quote Miley Cyrus: “We can’t stop”.
 
-Share your thoughts on social media #Evulving and follow [@Evulving](https://twitter.com/evulving) on Twitter.
+Share your thoughts on social media #Evulving and follow @Evulving on [Twitter](https://twitter.com/evulving) or [Instagram](https://www.instagram.com/evulving/).
