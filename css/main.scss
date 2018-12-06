@@ -541,10 +541,20 @@ $baseurl: '{{ site.baseurl }}/images';
 		&.fit {
 			display: block;
 			margin: 0 0 _size(element-margin) 0;
-			width: auto;
+			width: 100%;
 
 			img {
-				width: auto;
+				width: 100%;
+			}
+					
+		&.center {
+			float: center;
+			display: block;
+			width: 100%;
+			.img-responsive();
+
+			img {
+				width: 100%;
 			}
 		}
 	}
