@@ -27,7 +27,7 @@ I would wait patiently until my brother was on World 8 to ask to play. My dad wo
 
 My love for video games persisted throughout my life. One Christmas, I got a *Nintendo 64* and I was stoked! Banjo Kazooie became my favourite game of all time. Sadly, the objective of the game is to fight a witch who stole Banjo’s sister to suck her youth to become young and beautiful again.
 
-<div class="image fit" markdown="1">
+<div class="image center" markdown="1">
 ![Banjo Kazookie N64](/images/banjokazooie.jpg)  
 *Source: [nintendo.co.uk](https://www.nintendo.co.uk/Games/Nintendo-64/Banjo-Kazooie-269415.html)*
 </div>
@@ -36,7 +36,7 @@ My love for video games persisted throughout my life. One Christmas, I got a *Ni
 
 **Play with my brother’s marbles** - I liked to pretend the marbles were planets because they were painted with speckles in various astral colours. My parents bought me this awesome marble maze. Hours of fun were spent with that colourful maze, and it wasn’t pink!
 
-<div class="image fit" markdown="1">
+<div class="image center" markdown="1">
 ![Marble Maze](/images/marblemaze.jpg)  
 *Source: [amazon.com](https://www.amazon.com/Original-Toy-Company-Building-45-Piece/dp/B002611X3E)*
 </div>
@@ -47,20 +47,20 @@ We do see a trend here, don’t we? I loved toys that were marketed towards boys
 
 I looked up to my elder brother of nine years. He and I would always watch the *Teenage Mutant Ninja Turtles* together. I was in love. Once we were at the store and my aunt told me she would buy me any VHS tape I wanted. I picked a TMNT cassette called *The Shredder is Splintered*, which I just realized is an amazing pun. My mother asked: “Are you sure you don’t want *The Little Mermaid*”? I did like Ariel but loved TMNT more. I stuck with my choice and watched it so many times I knew it by heart. In our toy repertoire, we also had a TMNT Pizza Thrower Truck—always great fun, except when someone gets a pizza in the eye.
 
-<div class="image fit" markdown="1">
+<div class="image center" markdown="1">
 ![TMNT Pizza Thrower](/images/pizzathrower.jpg)  
 *Source: [Crooked Ninja](https://crookedninja.com/2014/03/pizza-thrower-a-history-of-reuse/)*
 </div>
 
 One year, I received a TMNT tent. I went crazy! I had to sleep in it in the living room that night. 
 
-<div class="image fit" markdown="1">
+<div class="image center" markdown="1">
 ![TMNT Tent](/images/tentrox.jpg)
 </div>
 
 At age three, I met a lifesize Leonardo and had my picture taken with him. Santa is scary as fuck, but a large mutant turtle? Count me in! I was so happy. My brother loved Michelangelo, but my favourite was Donatello. When I was four or five, my mother bought me a Donatello costume for Halloween. I had a shell and everything. It’s still in my list of favourite costumes today.
 
-<div class="image fit" markdown="1">
+<div class="image center" markdown="1">
 ![TMNT Mascot](/images/leonardo-tmnt.jpg)
 </div>
 
@@ -70,7 +70,7 @@ As I got older, the gifts I received from family members and friends changed. I 
 
 In 2015, my coworker and I raised money by hosting a Chili Cook-off at work. We fed the others in exchange for donations. We used the money to buy Christmas presents for underprivileged kids. We wanted to pick six different gifts that would suit various ages and interests. At the toy store, the layout and categorizations were striking. I couldn’t believe Nerf Guns were coloured according to gender. You’re a girl and you want a bow and arrow? Sure! Here’s a light purple and pink one for you.
 
-<div class="image fit" markdown="1">
+<div class="image center" markdown="1">
 ![Nerf Rebelle Bow](/images/nerfgun-bow.jpg)
 </div>
 
@@ -78,7 +78,7 @@ This is the toy we saw. Apparently, this bow and arrow was part of the Nerf Rebe
 
 Back at the store, we picked as many gender-neutral games and toys as we could and got out of there. My favourite was a cuddly rainbow coloured zebra.
 
-<div class="image fit" markdown="1">
+<div class="image center" markdown="1">
 ![Rainbow Zebra Plush](/images/rainbowzebra.jpg)
 </div>
 
@@ -88,7 +88,7 @@ To be fair, things seem to be slowly changing. Let’s use Mattel, the company t
 
 Earlier this year, Mattel released a Frida Kahlo doll as part of an [*Inspiring Women* Series](https://barbie.mattel.com/en-us/about/role-models.html), along with seventeen others dolls representing women like Amelia Earhart and Katherine Johnson. Unfortunately, Mattel failed to ask for the rights to create a Frida doll ([read article](https://www.theguardian.com/artanddesign/2018/apr/20/frida-kahlo-barbie-doll-mexico-injunction)) and even made the decision to remove her iconic unibrow. The message sent by removing Frida’s unibrow: it’s not normal, not pretty and doesn’t conform to the beauty norms of our dolls. Who would buy a doll with a unibrow? Gross.
 
-<div class="image fit" markdown="1">
+<div class="image center" markdown="1">
 ![Frida Barbie](/images/frida.jpg)  
 *Source: [Mattel](https://barbie.mattel.com/shop/en-us/ba/inspiring-women-series/barbie-inspiring-women-series-frida-kahlo-doll-fjh65)*
 </div>
