@@ -550,6 +550,7 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 		
 		&.center {
+			display: block;
 			img {
 				margin: auto;
 				max-width: 100%;
