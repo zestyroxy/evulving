@@ -12,7 +12,7 @@ I am four years old. My grandfather is dressed up as Santa Claus and is giving o
 
 “Grandpa” gives me my present. It’s a ski shop/resort for *Barbie*, complete with skis, sticks, boots, and matching snow outfits; one for Ken and one for *Barbie*. The snowsuits are coloured a green purple, and yellow for Ken and mainly pink for *Barbie*. It’s a cool gift. It came in a big box and that’s what matters when you’re four.
 
-<div class="image" markdown="1">
+<div class="image" class="fit" markdown="1">
 ![Barbie Ski Shop](/images/barbieskishop.jpg)  
 *Source: [ebay.com](https://www.ebay.com/itm/VINTAGE-1991-BARBIE-SKI-FUN-SKI-SHOP-WINTER-HOLIDAY-PLAYSET-NEW-NIB-/121206282820?pt=LH_DefaultDomain_0&hash=item1c38751a44)*
 </div>
@@ -27,8 +27,10 @@ I would wait patiently until my brother was on World 8 to ask to play. My dad wo
 
 My love for video games persisted throughout my life. One Christmas, I got a *Nintendo 64* and I was stoked! Banjo Kazooie became my favourite game of all time. Sadly, the objective of the game is to fight a witch who stole Banjo’s sister to suck her youth to become young and beautiful again.
 
+<div class="image" class="fit" markdown="1">
 ![Banjo Kazookie N64](/images/banjokazooie.jpg)  
 *Source: [nintendo.co.uk](https://www.nintendo.co.uk/Games/Nintendo-64/Banjo-Kazooie-269415.html)*
+</div>
 
 **Play with my brother’s race tracks** - I would set it up and race my father or make the cars jump across tracks. I always wanted a new race track of my own, but I was told they were for boys. No racetrack appeared under our Christmas Tree. My only deduction: Santa is sexist.
 
