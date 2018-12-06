@@ -544,18 +544,9 @@ $baseurl: '{{ site.baseurl }}/images';
 			width: 100%;
 
 			img {
-				width: 100%;
+				width: auto;
 			}
-					
-		&.center {
-			float: center;
-			display: block;
-			width: 100%;
-			.img-responsive();
-
-			img {
-				width: 100%;
-			}
+				
 		}
 	}
 
