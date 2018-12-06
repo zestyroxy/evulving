@@ -12,8 +12,10 @@ I am four years old. My grandfather is dressed up as Santa Claus and is giving o
 
 “Grandpa” gives me my present. It’s a ski shop/resort for *Barbie*, complete with skis, sticks, boots, and matching snow outfits; one for Ken and one for *Barbie*. The snowsuits are coloured a green purple, and yellow for Ken and mainly pink for *Barbie*. It’s a cool gift. It came in a big box and that’s what matters when you’re four.
 
+<div class="fit">
 ![Barbie Ski Shop](/images/barbieskishop.jpg)  
 *Source: [ebay.com](https://www.ebay.com/itm/VINTAGE-1991-BARBIE-SKI-FUN-SKI-SHOP-WINTER-HOLIDAY-PLAYSET-NEW-NIB-/121206282820?pt=LH_DefaultDomain_0&hash=item1c38751a44)*
+</div>
 
 Looking back, I wish I had received something more gender neutral and educational. I also doubt that dressing my skinny disproportionate doll with deformed feet helped with my body image. I only played with that ski set a few times. I much preferred spending my playtime in my own imaginary water worlds, like Ariel island (my stomach) in the bathtub. I also had a kid-sized *McDonald’s* play restaurant, where I could sizzle burgers and serve people in my mini drive-thru (well played *McDonald's*). I also hosted my own radio show with my pink and purple recorder. 
 
