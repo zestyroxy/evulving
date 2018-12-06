@@ -541,10 +541,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		&.fit {
 			display: block;
 			margin: 0 0 _size(element-margin) 0;
-			width: 100%;
+			width: auto;
 
 			img {
-				width: 100%;
+				width: auto;
 			}
 		}
 	}
