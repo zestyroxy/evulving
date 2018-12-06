@@ -25,16 +25,14 @@ I would wait patiently until my brother was on World 8 to ask to play. My dad wo
 
 My love for video games persisted throughout my life. One Christmas, I got a *Nintendo 64* and I was stoked! Banjo Kazooie became my favourite game of all time. Sadly, the objective of the game is to fight a witch who stole Banjo’s sister to suck her youth to become young and beautiful again.
 
-![Banjo Kazookie N64](/images/banjokazooie.jpg)
-
+![Banjo Kazookie N64](/images/banjokazooie.jpg)  
 *Source: [nintendo.co.uk](https://www.nintendo.co.uk/Games/Nintendo-64/Banjo-Kazooie-269415.html)*
 
 **Play with my brother’s race tracks** - I would set it up and race my father or make the cars jump across tracks. I always wanted a new race track of my own, but I was told they were for boys. No racetrack appeared under our Christmas Tree. My only deduction: Santa is sexist.
 
 **Play with my brother’s marbles** - I liked to pretend the marbles were planets because they were painted with speckles in various astral colours. My parents bought me this awesome marble maze. Hours of fun were spent with that colourful maze, and it wasn’t pink!
 
-![Marble Maze](/images/marblemaze.jpg)
-
+![Marble Maze](/images/marblemaze.jpg)  
 *Source: [amazon.com](https://www.amazon.com/Original-Toy-Company-Building-45-Piece/dp/B002611X3E)*
 
 **Play with my brother’s LEGO** - I would create the highest tower possible with the number of LEGO at hand. I would then throw our LEGO spacemen inside it. There was always a door at the bottom so I could fetch the spacemen with my tiny fingers and make them fall down the building over and over again. Was this an anger management mechanism? I did later receive a LEGO present of my own. It was a girl with a horse, a stable and a car. It was, of course, pink, but I loved having a girl LEGO. She looked like me.
@@ -43,8 +41,7 @@ We do see a trend here, don’t we? I loved toys that were marketed towards boys
 
 I looked up to my elder brother of nine years. He and I would always watch the *Teenage Mutant Ninja Turtles* together. I was in love. Once we were at the store and my aunt told me she would buy me any VHS tape I wanted. I picked a TMNT cassette called *The Shredder is Splintered*, which I just realized is an amazing pun. My mother asked: “Are you sure you don’t want *The Little Mermaid*”? I did like Ariel but loved TMNT more. I stuck with my choice and watched it so many times I knew it by heart. In our toy repertoire, we also had a TMNT Pizza Thrower Truck—always great fun, except when someone gets a pizza in the eye.
 
-![TMNT Pizza Thrower](/images/pizzathrower.jpg)
-
+![TMNT Pizza Thrower](/images/pizzathrower.jpg)  
 *Source: [Crooked Ninja](https://crookedninja.com/2014/03/pizza-thrower-a-history-of-reuse/)*
 
 One year, I received a TMNT tent. I went crazy! I had to sleep in it in the living room that night. 
@@ -75,8 +72,7 @@ To be fair, things seem to be slowly changing. Let’s use Mattel, the company t
 
 Earlier this year, Mattel released a Frida Kahlo doll as part of an [*Inspiring Women* Series](https://barbie.mattel.com/en-us/about/role-models.html), along with seventeen others dolls representing women like Amelia Earhart and Katherine Johnson. Unfortunately, Mattel failed to ask for the rights to create a Frida doll ([read article](https://www.theguardian.com/artanddesign/2018/apr/20/frida-kahlo-barbie-doll-mexico-injunction)) and even made the decision to remove her iconic unibrow. The message sent by removing Frida’s unibrow: it’s not normal, not pretty and doesn’t conform to the beauty norms of our dolls. Who would buy a doll with a unibrow? Gross.
 
-![Frida Barbie](/images/frida.jpg)
-
+![Frida Barbie](/images/frida.jpg)  
 *Source: [Mattel](https://barbie.mattel.com/shop/en-us/ba/inspiring-women-series/barbie-inspiring-women-series-frida-kahlo-doll-fjh65)*
 
 In 2016, Mattel announced the release of Diversity *Barbie*. They come in various shape, sizes, race, etc. It’s great that Mattel is now trying to represent different women and inspire girls to follow their dreams. I was just on their website and it was indeed more diverse, even featuring *Barbie* doctors, football players, yogis, engineers, journalists, pilot and astronauts. Most of them aren’t even wearing heels! They aren’t perfect—they are still *Barbie*—but it certainly is a step forward and we need more of that. I believe companies to should be more forward thinking and start producing toys representing the elderly, disabled and LGBTQAI+ humans out there.
