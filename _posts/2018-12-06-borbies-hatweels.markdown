@@ -12,7 +12,7 @@ I am four years old. My grandfather is dressed up as Santa Claus and is giving o
 
 “Grandpa” gives me my present. It’s a ski shop/resort for *Barbie*, complete with skis, sticks, boots, and matching snow outfits; one for Ken and one for *Barbie*. The snowsuits are coloured a green purple, and yellow for Ken and mainly pink for *Barbie*. It’s a cool gift. It came in a big box and that’s what matters when you’re four.
 
-<div class="image">
+<div class="image" markdown="1">
 ![Barbie Ski Shop](/images/barbieskishop.jpg)  
 *Source: [ebay.com](https://www.ebay.com/itm/VINTAGE-1991-BARBIE-SKI-FUN-SKI-SHOP-WINTER-HOLIDAY-PLAYSET-NEW-NIB-/121206282820?pt=LH_DefaultDomain_0&hash=item1c38751a44)*
 </div>
