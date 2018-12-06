@@ -4,7 +4,7 @@ title:  "Chapter 3 | Borbies and Hat Wheels"
 date:   2018-12-06 11:35:42 +0200
 image: /images/pinkgun.jpg
 card: summary_large_image
-keywords: kids toys, barbies, frida barbie, teenage mutant ninja turtles, gender neutral toys, hot wheels, pink toys for girls
+keywords: kids toys, sexist toys, barbies, frida barbie, teenage mutant ninja turtles, gender neutral toys, hot wheels, pink toys for girls
 ---
 It’s the holidays season and I am feeling sentimental. I’ve been seeing all the store windows filled with toys and it’s making me think of my childhood. Let’s have some fun and travel back to the Christmas of 1991. 
 
