@@ -548,6 +548,13 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 				
 		}
+		
+		&.center {
+			img {
+				margin: auto;
+				max-width: 100%;
+			}
+		}
 	}
 
 /* List */
