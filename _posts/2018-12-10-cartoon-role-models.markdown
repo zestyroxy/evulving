@@ -8,12 +8,12 @@ keywords: 80s tv shows, 90s tv shows, role models, lisa simpson, pocahontas, mis
 ---
 I watched a lot of TV as a kid. I may not have known what the Internet was, but I knew every show on television. As a bilingual kid in Canada, I would also watch French TV (from both France and Québec). I’ll list my favourite shows below and then I’ll analyze four of my cartoon role models. I didn’t realize how much they have influenced me until this year. 
 
-##Age 0-4
+## Age 0-4
 I was introduced to television early on. I watched Dumbo, Winnie the Pooh, Babar, Marie-Soleil, and the Elephant Show. I don’t remember watching the shows. I mostly remember people telling me about the shows and singing the songs with my family. I can see a few snapshots here and there, but that’s it.
 
-<div style="width:100%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/HbU5XBerba9ws" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/lonely-sad-HbU5XBerba9ws">via GIPHY</a></p>
+<div style="max-width:100%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/HbU5XBerba9ws" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/lonely-sad-HbU5XBerba9ws">via GIPHY</a></p>
 
-##Age 4-6
+## Age 4-6
 I remember watching Sesame Street every day. My favourite characters were Big Bird and the Count. I also watched Book Mice, Polka Dot Door, Barney and Friends, the Care Bears and Teenage Mutant Ninja Turtles. Now that I think about it, Sesame Street and Polka Dot Door might be more diverse than some of the other shows on TV today.
 
 The French shows I watched were Passe-Partout, Les Amis Ratons, Le Petit Castor, and Bibi et Geneviève. I love Bibi et Geneviève so much that I sent a drawing to the show and they sent me free books back! Ah, the 90s, how I miss you. 
@@ -25,7 +25,7 @@ Side note for my French-Canadian friends. I researched Le Petit Castor and it tu
 *Source: [cestjustdelatv.artv.ca](http://cestjustedelatv.artv.ca/recherche/%2520Le%2520petit%2520castor)*
 </div>
 
-##Age 7-12
+## Age 7-12
 At this age, I watched television after school and on weekend mornings. Especially during winter; it can get down to -40°C so staying indoors is pretty appealing. I watched so much TV it’s hard to remember what I watched when, but I’ll try to name them in chronological order: Reading Rainbow, Mister Rogers’, Mister Dressup, Where in the World is Carmen Sandiego?, Darkwing Duck, Inspector Gadget, Bugs Bunny, the Jetsons, the Flintstones, the Looney Tunes, the Animaniacs, Pinky and the Brain, Tales from the Cryptkeeper, Pingu, Funnybones, the Big Comfy Couch, the Magic School Bus, the Little Lulu Show, PB&J Otter, Ned’s Newt, Are You Afraid of the Dark?, Sailor Moon, Arthur, the Powerpuff Girls and the Simpsons.
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/13n8txR8c9UDHG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/90s-carmen-sandiego-where-on-earth-is-13n8txR8c9UDHG">via GIPHY</a></p>
@@ -34,10 +34,11 @@ The French shows I watched between seven and twelve were: Soupe Opéra, Cocotte-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cpkMsoU0Cd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##Animated Films
+
+## Animated Films
 I watched animated movies throughout my childhood, some from Disney, some not. I had my favourites and watched them over and over. The Disney films were: 101 Dalmatians, Aladdin, Beauty and the Beast, Pocahontas, and the Lion King. I loved the Dalmatians so much that it was one of my birthday themes. I had a dalmatian-printed dress and cake. The non-Disney films: Happily Ever After (a snow white rip-off with female dwarves - I loved it more than the original), the Pebble and the Penguin, Thumbelina and the Swan Princess. I wanted my mother to change my name to Odette, to be more like the Swan Princess. I remember crying about my name being Roxanne instead of Odette.
 
-##Animated Women Idols
+## Animated Women Idols
 As we can determine by the multiple lists, I watched a lot of television. Among all of those listed, a few stood out. I believe it’s because of the strong female characters they featured. Let’s take a closer look at my favourite characters and analyze which ones I emulated the most. Here are the four women I thought were rad and look up to as a kid. 
 
 **Pocahontas** - I was obsessed with Pocahontas. Yes, the movie itself has flaws and they did change Pocahontas’ story. Thankfully, those parts are not what drew me to the film. I didn’t particularly like John Smith, I wasn’t waiting for a man to find and save me, nor did I find the idolization of colonialism great.
