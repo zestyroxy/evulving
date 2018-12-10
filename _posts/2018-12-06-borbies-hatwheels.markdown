@@ -10,6 +10,10 @@ It’s the holidays season and I am feeling sentimental. I’ve been seeing all 
 
 I am four years old. My grandfather is dressed up as Santa Claus and is giving out presents to our entire family, which means more cousins than I can count with both hands. I go up to Santa. I am terrified by this weird man dressed in red. I am afraid of all fake Santas. There’s a rumour going around the room this Santa is Grandpa, but I don’t know. He doesn’t look like Grandpa. I already refused to sit on the lap of that mall Santa. I cried and Mom had to sit on him and hold me on her lap to get the photo. Sorry, Mom. 
 
+<div class="image center" markdown="1">
+![I hate Santa](/images/hatesanta.jpg)  
+</div>  
+
 “Grandpa” gives me my present. It’s a ski shop/resort for *Barbie*, complete with skis, sticks, boots, and matching snow outfits; one for Ken and one for *Barbie*. The snowsuits are coloured a green purple, and yellow for Ken and mainly pink for *Barbie*. It’s a cool gift. It came in a big box and that’s what matters when you’re four.
 
 <div class="image center" markdown="1">
@@ -91,7 +95,7 @@ Earlier this year, Mattel released a Frida Kahlo doll as part of an [*Inspiring 
 <div class="image center" markdown="1">
 ![Frida Barbie](/images/frida.jpg)  
 *Source: [Mattel](https://barbie.mattel.com/shop/en-us/ba/inspiring-women-series/barbie-inspiring-women-series-frida-kahlo-doll-fjh65)*
-</div>
+</div>  
 
 In 2016, Mattel announced the release of Diversity *Barbie*. They come in various shape, sizes, race, etc. It’s great that Mattel is now trying to represent different women and inspire girls to follow their dreams. I was just on their website and it was indeed more diverse, even featuring *Barbie* doctors, football players, yogis, engineers, journalists, pilot and astronauts. Most of them aren’t even wearing heels! They aren’t perfect—they are still *Barbie*—but it certainly is a step forward and we need more of that. I believe companies to should be more forward thinking and start producing toys representing the elderly, disabled and LGBTQAI+ humans out there.
 
