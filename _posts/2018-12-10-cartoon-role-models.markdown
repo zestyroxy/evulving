@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Chapter 4 | Animated Role Models"
+title:  "Chapter 4 | Cartoon Role Models"
 date:   2018-12-10 10:45:42 +0200
 image: /images/old-tv.jpg
 card: summary_large_image
@@ -11,7 +11,10 @@ I watched a lot of TV as a kid. I may not have known what the Internet was, but 
 ## Age 0-4
 I was introduced to television early on. I watched Dumbo, Winnie the Pooh, Babar, Marie-Soleil, and the Elephant Show. I don’t remember watching the shows. I mostly remember people telling me about the shows and singing the songs with my family. I can see a few snapshots here and there, but that’s it.
 
-<div style="max-width:100%;height:0;padding-bottom:45%;position:relative;"><iframe src="https://giphy.com/embed/HbU5XBerba9ws" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/lonely-sad-HbU5XBerba9ws">via GIPHY</a></p>
+<div class="image center" markdown="1">
+![Eeyore Pooh](/images/eeyore.gif)  
+*Source: [giphy.com](https://giphy.com/gifs/lonely-sad-HbU5XBerba9ws)*
+</div>
 
 ## Age 4-6
 I remember watching Sesame Street every day. My favourite characters were Big Bird and the Count. I also watched Book Mice, Polka Dot Door, Barney and Friends, the Care Bears and Teenage Mutant Ninja Turtles. Now that I think about it, Sesame Street and Polka Dot Door might be more diverse than some of the other shows on TV today.
