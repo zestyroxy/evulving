@@ -31,11 +31,14 @@ Side note for my French-Canadian friends. I researched Le Petit Castor and it tu
 ## Age 7-12
 At this age, I watched television after school and on weekend mornings. Especially during winter; it can get down to -40°C so staying indoors is pretty appealing. I watched so much TV it’s hard to remember what I watched when, but I’ll try to name them in chronological order: Reading Rainbow, Mister Rogers’, Mister Dressup, Where in the World is Carmen Sandiego?, Darkwing Duck, Inspector Gadget, Bugs Bunny, the Jetsons, the Flintstones, the Looney Tunes, the Animaniacs, Pinky and the Brain, Tales from the Cryptkeeper, Pingu, Funnybones, the Big Comfy Couch, the Magic School Bus, the Little Lulu Show, PB&J Otter, Ned’s Newt, Are You Afraid of the Dark?, Sailor Moon, Arthur, the Powerpuff Girls and the Simpsons.
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/13n8txR8c9UDHG" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/90s-carmen-sandiego-where-on-earth-is-13n8txR8c9UDHG">via GIPHY</a></p>
+<div class="image center" markdown="1">
+![Carmen Sandiego](/images/carmensandiego.gif)  
+*Source: [giphy.com](https://giphy.com/gifs/90s-carmen-sandiego-where-on-earth-is-13n8txR8c9UDHG)*
+</div>
 
 The French shows I watched between seven and twelve were: Soupe Opéra, Cocotte-Minute, La Bande à Ovid, Tic et Tac, La Bande à Picsou, les Stroumpfs, les Débrouillards, les Intrépides, and Astérix et Obélix. I would borrow Astérix et Cléopâtre from the library every month. It was one of my favourite episodes. Watch it on [YouTube](https://www.youtube.com/watch?v=cpkMsoU0Cd4) (with English subtitles). 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cpkMsoU0Cd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/cpkMsoU0Cd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Animated Films
@@ -52,7 +55,10 @@ I identified with Pocahontas above all other Disney characters that existed in t
 
 Want more Pocahontas? Read a great blog by Olivia Truffaut-Wong called [How 'Pocahontas' Inspired Me To Become The Feminist That I Am Today](https://www.bustle.com/articles/180477-how-pocahontas-inspired-me-to-become-the-feminist-that-i-am-today).
 
-<div style="width:100%;height:0;padding-bottom:69%;position:relative;"><iframe src="https://giphy.com/embed/l2JIbzy55S7X33RQs" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/oskouioskoui-pocahontas-gifscapade-l2JIbzy55S7X33RQs">via GIPHY</a></p>
+<div class="image center" markdown="1">
+![Pocahontas](/images/pocahontas.gif)  
+*Source: [giphy.com](https://giphy.com/gifs/oskouioskoui-pocahontas-gifscapade-l2JIbzy55S7X33RQs)*
+</div>
 
 **Ms. Frizzle** - Valerie Felicity Frizzle is awesome. First of all, she is a Miss, which implies that she is single. Her relationship status was never addressed in any of the episodes. Some members of the show’s fandom suspect she is a lesbian. That could be true, but she might also just be a straight woman who doesn’t want a husband. Either way, her sexual orientation and relationship status isn’t really important to the plot of the show. She is a strong, smart and kind redhead. She also loved puns, which might explain why I love them so much today.
 
@@ -60,13 +66,19 @@ The Friz is a great teacher— she’s the dream teacher. She not only makes lea
 
 I still think of the Magic School Bus as one of the best shows I’ve ever watched. I recently rewatched a few episodes and was still in love. It’s educational, has a diverse set of characters and it taught me a lot. I remember sitting in class in high school and university and being able to picture certain concepts the teacher was explaining thanks to some of the show’s episodes.
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/NjUZ3yH5F61XO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/90s-the-magic-school-bus-ms-frizzle-NjUZ3yH5F61XO">via GIPHY</a></p>
+<div class="image center" markdown="1">
+![Miss Frizzle](/images/missfrizzle.gif)  
+*Source: [giphy.com](https://giphy.com/gifs/90s-the-magic-school-bus-ms-frizzle-NjUZ3yH5F61XO)*
+</div>
 
 **Francine Frensky** - Francine is one of Arthur the aardvark's best friends. Yes, boys and girls can be friends; what a shocking concept. Francine is no flat character. She’s sporty and tough. She has a bad temper, but it usually gets out of control when she feels shame, which is relatable. Her family doesn’t have much money and I identified with that. Leftover night was a normal night for us. She loves sports, and her father encourages that. Francine hates to wear dresses and isn’t afraid to get dirty. I also happened to hate dresses at that time and loved playing sports with the guys. I was very competitive like Francine and played to win. It was great to have a cartoon character that represented that side of my personality. 
 
 Arthur’s sister DW, short for Dora Winifred Reed, also needs a special mention. She is strong-willed and isn’t afraid to point out what’s wrong with the world. All in all, Arthur was a great animated show. I learned something from each character and it made me see how cools libraries are. I still sing the song “Having fun isn’t hard when you’ve got a library card!” to this day.
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/3o85xpxuULZ1Svqizu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/chuber-arthur-library-card-3o85xpxuULZ1Svqizu">via GIPHY</a></p>
+<div class="image center" markdown="1">
+![Arthur Library Card](/images/arthur-library.gif)  
+*Source: [giphy.com](https://giphy.com/gifs/chuber-arthur-library-card-3o85xpxuULZ1Svqizu)*
+</div>
 
 **Lisa Simpson** - I only realized a month ago how Lisa Simpson actually influenced who I am today. The Simpsons are a family of five, just like my family. My brother even skateboarded like Bart. Lisa is smart and I identified with that. She might be a know-it-all but embraces knowledge. In high school, I played the saxophone to be more like Lisa. It only lasted a year, but it was one of my childhood goals ever since I heard her play those sweet tunes. 
 
@@ -76,6 +88,9 @@ As a kid, I remember begging my mother to recycle instead of just throwing every
 
 What I love most about Lisa Simpson and the thing that has impacted me above all is her feminism. She’s that voice in my head telling me to fight for what was right. There are too many instances to lay out here, but I’ll name a few. She fought against Malibu Stacy (the Simpsons’ version of *Barbie*), she was determined to have a career usually taken up by men (journalist, major, president, etc), she played hockey and was awesome at it, stood up against the tobacco industry, slept in a tree to save a forest, stood for equality and openly admitted marriage wasn’t that important to her. She is awesome.
 
-<div style="width:100%;height:0;padding-bottom:77%;position:relative;"><iframe src="https://giphy.com/embed/l2Je4itP3NgFv8yyI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/season-11-the-simpsons-11x3-l2Je4itP3NgFv8yyI">via GIPHY</a></p>
+<div class="image center" markdown="1">
+![Lisa Simpson](/images/lisa-newsroom.gif)  
+*Source: [giphy.com](https://giphy.com/gifs/season-11-the-simpsons-11x3-l2Je4itP3NgFv8yyI)*
+</div>
 
 I never realized how these four cartoon characters shaped who I am. I don’t know why I looked up to them back then, but I was drawn to them. I remember watching Pocahontas over and over, willing myself to be like her. From Ms. Frizzle, I found out that learning was cool and you didn’t need to be afraid to fail. Her catchphrase was “Take chances, make mistakes, get messy!” after all. From Francine, I learned it was fine to not be girly. I could be a girl and be great at sports. Finally, Lisa Simpson is still teaching me things, I haven’t caught up yet. I am in awe at the complex feminist icon they have created. If there’s one thing I wish for it is more diverse content to be made for every kid out there. Everyone deserves a role model that they relate and look up to. 
