@@ -94,3 +94,5 @@ What I love most about Lisa Simpson and the thing that has impacted me above all
 </div>
 
 I never realized how these four cartoon characters shaped who I am. I don’t know why I looked up to them back then, but I was drawn to them. I remember watching Pocahontas over and over, willing myself to be like her. From Ms. Frizzle, I found out that learning was cool and you didn’t need to be afraid to fail. Her catchphrase was “Take chances, make mistakes, get messy!” after all. From Francine, I learned it was fine to not be girly. I could be a girl and be great at sports. Finally, Lisa Simpson is still teaching me things, I haven’t caught up yet. I am in awe at the complex feminist icon they have created. If there’s one thing I wish for it is more diverse content to be made for every kid out there. Everyone deserves a role model that they relate and look up to. 
+
+Who was your cartoon role model? Gifs are of course encouraged with your responses #Evulving on [Twitter](https://twitter.com/evulving) or [Instagram](https://www.instagram.com/evulving/).
