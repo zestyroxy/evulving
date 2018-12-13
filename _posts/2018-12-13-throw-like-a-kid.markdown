@@ -28,7 +28,7 @@ A few months later, I went to the basketball try-out; it has always been my favo
 That same year, three of my old teammates and I joined a 3 vs.3 volleyball tournament. I remember this moment very clearly. We were playing against taller boys from the other high school. They were good, but so were we. We ended up losing, but there was one moment that stayed with me. One of the guys tried to smash the ball and I blocked him to score the point. He looked at me with utter disbelief. A shorter girl blocked me?! Hell yea.
 
 <div class="image center" markdown="1">
-![Yea gif](/images/yea.gif)  
+![Yes gif](/images/yes.gif)  
 *Source: [giphy.com](https://giphy.com/gifs/thisisgiphy-reaction-audience-l4HodBpDmoMA5p9bG)*
 </div>
 
