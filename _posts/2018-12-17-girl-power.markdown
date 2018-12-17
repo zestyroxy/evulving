@@ -28,14 +28,15 @@ Eventually, I “outgrew” Christina because I learned everything I needed to f
 
 Not convinced? Take 4.5 minutes to listen to *Can’t hold us down* and you’ll be ready to take on the next misogynist that dares to call you a slut, to try to humiliate you or to shut you up.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dg8QgUIKXHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dg8QgUIKXHw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+
 
 ### Taylor Swift
 Tay Tay. So much hate is directed at her. But why? Taylor Swift was a sweet teenager and became a strong wonderful woman and we love to tear her down. Maturing and changing in front of a public audience evidently merits scrutiny and hate. Give her some space. You don’t have to like her, but you should respect her. Cheers to Taylor for unapologetically changing and taking charge or her *Reputation*.
 
 The first glimpse I caught of Taylor was in 2006, while I was procrastinating on YouTube instead of doing my university homework. I stumbled upon *Teardrops on my guitar* and it was love at first song. I remember running upstairs to tell my roommate and best friend all about her!
 
-I look up to Taylor for making her dreams come true. For writing songs that were very personal to her and for staying true to her voice. To this day, she’s the artist that manages to makes me cry nearly every time I listen to her albums. She taught me to ignore whoever was *Mean* and didn’t believe in me, to *Breathe* and be *Fearless*, to recognize the *I Knew you were trouble* feeling, to feel *Clean* after breaking up with my longterm boyfriend, to *Shake it off* afterwards and to handle things when they are *Delicate*. Thank you, Taylor, for putting the hard feelings into words when I couldn’t. 
+I look up to Taylor for making her dreams come true. For writing songs that were very personal to her and for staying true to her voice. To this day, she’s the artist that manages to makes me cry nearly every time I listen to her albums. She taught me to ignore whoever was *Mean* and didn’t believe in me, to *Breathe* and be *Fearless*, to recognize the *I knew you were trouble* feeling, to feel *Clean* after breaking up with my longterm boyfriend, to *Shake it off* afterwards and to handle things when they are *Delicate*. Thank you, Taylor, for putting the hard feelings into words when I couldn’t. 
 
 ## Current Role Models
 I can’t remember where I read this, but apparently, you look up to people when they represent something in you that’s just waiting to come out. For example, if you secretly wish you could play guitar, then you’ll look up to someone who you think is great at it. Once you achieve and internalize that goal for yourself, you may stop seeing them as an idol, but you’ll never forget how they’ve inspired you and helped you become who you are. 
@@ -72,8 +73,11 @@ I feel thankful for these strong women I was able to watch and emulate. Without 
 For those of you who are curious, here are other women I looked/look up to and a brief reason why. They didn’t make the top list but that doesn’t mean they haven’t influenced me in some way. Here they are in alphabetical order:
 
 **Angelina Jolie**: *Lara Croft* needs no man to be a badass. Yes, she was dressed like that for men and there are practically no other women in the film, but she kicked ass. 
+
 **Amy Poehler**: created an awesome TV series with diverse and awesome female characters.
+
 **Audrey Tautou**: Amélie Poulain for putting a quirky and whimsical character in the forefront. 
+
 **Caitlin Moran**: for showing me I actually was a feminist.
 **Charlize Theron**: *Aeon Flux*. It wasn’t a great film, but we didn’t have many female superheroes around. I cut my hair like hers after I saw the movie. I still love her. If you haven’t seen the films Mad Max or Tully yet, go now! 
 **Claire Danes and Kate Beckinsale**: for *Brokedown Palace*. Anything for friendship, not men.
