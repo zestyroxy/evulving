@@ -38,9 +38,6 @@ At this age, I watched television after school and on weekend mornings. Especial
 
 The French shows I watched between seven and twelve were: Soupe Opéra, Cocotte-Minute, La Bande à Ovid, Tic et Tac, La Bande à Picsou, les Stroumpfs, les Débrouillards, les Intrépides, and Astérix et Obélix. I would borrow Astérix et Cléopâtre from the library every month. It was one of my favourite episodes. Watch it on [YouTube](https://www.youtube.com/watch?v=cpkMsoU0Cd4) (with English subtitles). 
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/cpkMsoU0Cd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 ## Animated Films
 I watched animated movies throughout my childhood, some from Disney, some not. I had my favourites and watched them over and over. The Disney films were: 101 Dalmatians, Aladdin, Beauty and the Beast, Pocahontas, and the Lion King. I loved the Dalmatians so much that it was one of my birthday themes. I had a dalmatian-printed dress and cake. The non-Disney films: Happily Ever After (a snow white rip-off with female dwarves - I loved it more than the original), the Pebble and the Penguin, Thumbelina and the Swan Princess. I wanted my mother to change my name to Odette, to be more like the Swan Princess. I remember crying about my name being Roxanne instead of Odette.
 
