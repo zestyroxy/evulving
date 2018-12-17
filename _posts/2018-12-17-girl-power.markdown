@@ -25,7 +25,9 @@ When her *Stripped* album came out, I fell in love with Xtina. She owned her sex
 </div>
 
 Eventually, I “outgrew” Christina because I learned everything I needed to from her powerful voice. She awoke the feminist in me. 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/dg8QgUIKXHw' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'>
+  <iframe src='https://www.youtube.com/embed/dg8QgUIKXHw' frameborder='0' allowfullscreen></iframe>
+</div>
 
 Not convinced? Take 4.5 minutes to listen to *Can’t hold us down* and you’ll be ready to take on the next misogynist that dares to call you a slut, to try to humiliate you or to shut you up.
 
@@ -63,7 +65,9 @@ Yoga has become essential to my day. I always leave the mat feeling happier and 
 **Janelle Monáe** - What a powerhouse. Janelle is the kind of woman I want to be. I’m not sure what that means yet, I am just starting to figure out what I see in her.
 
 Don’t know what I’m talking about? Watch her music video *Pynk*.
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/PaYvlVR_BEc' frameborder='0' allowfullscreen></iframe></div>
+<div class='embed-container'>
+  <iframe src='https://www.youtube.com/embed/PaYvlVR_BEc' frameborder='0' allowfullscreen></iframe>
+</div>
 
 I feel thankful for these strong women I was able to watch and emulate. Without them, I would not have known it wasn’t okay for men to grab my ass. I may not have thought being a girl was cool and I probably wouldn’t accept myself as much as I do today.
 
