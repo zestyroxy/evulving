@@ -63,7 +63,7 @@ Yoga has become essential to my day. I always leave the mat feeling happier and 
 
 **Janelle Monáe** - What a powerhouse. Janelle is the kind of woman I want to be. I’m not sure what that means yet, I am just starting to figure out what I see in her.
 
-Don’t know what I’m talking about? Watch her music video Pynk.
+Don’t know what I’m talking about? Watch her music video *Pynk*.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PaYvlVR_BEc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I feel thankful for these strong women I was able to watch and emulate. Without them, I would not have known it wasn’t okay for men to grab my ass. I may not have thought being a girl was cool and I probably wouldn’t accept myself as much as I do today.
