@@ -37,7 +37,7 @@ Not convinced? Take 4.5 minutes to listen to *Can’t hold us down* and you’ll
 ### Taylor Swift
 Tay Tay. So much hate is directed at her. But why? Taylor Swift was a sweet teenager and became a strong wonderful woman and we love to tear her down. Maturing and changing in front of a public audience evidently merits scrutiny and hate. Give her some space. You don’t have to like her, but you should respect her. Cheers to Taylor for unapologetically changing and taking charge or her *Reputation*.
 
-The first glimpse I caught of Taylor was in 2006, while I was procrastinating on YouTube instead of doing my university homework. I stumbled upon *Teardrops on my guitar* and it was love at first song. I remember running upstairs to tell my roommate and best friend all about her!
+The first glimpse I caught of Taylor was in 2007, while I was procrastinating on YouTube instead of doing my university homework. I stumbled upon *Teardrops on my guitar* and it was love at first song. I remember running upstairs to tell my roommate and best friend all about her!
 
 I look up to Taylor for making her dreams come true. For writing songs that were very personal to her and for staying true to her voice. To this day, she’s the artist that manages to makes me cry nearly every time I listen to her albums. She taught me to ignore whoever was *Mean* and didn’t believe in me, to *Breathe* and be *Fearless*, to recognize the *I knew you were trouble* feeling, to feel *Clean* after breaking up with my longterm boyfriend, to *Shake it off* afterwards and to handle things when they are *Delicate*. Thank you, Taylor, for putting the hard feelings into words when I couldn’t. 
 
@@ -63,7 +63,7 @@ There are many other authors out there that I love, but I relate most to Kate. S
 
 **Adriene Mishler** - Adriene makes yoga accessible to the world via her YouTube channel and brand [Yoga with Adriene](http://youtube.com/yogawithadriene). She makes you feel at ease on the mat by being her joking self. One of Adriene’s mantras is “choose to let go”. I repeat it to myself often because letting go is friggin’ hard. The world can feel so serious and heavy. Through her practice, Adriene has taught me to shed that weight. I also learned that I don’t have to be perfect at yoga or in life. 
 
-Yoga has become essential to my day. I always leave the mat feeling happier and lighter. Not once have I told myself “I really regret taking the time to do yoga today”. Adriene helped me look up to the best version of myself. Only when I am at peace internally, can I be kind and gentle to others. Namaste. &#128591
+Yoga has become essential to my day. I always leave the mat feeling happier and lighter. Not once have I told myself “I really regret taking the time to do yoga today”. Adriene helped me look up to the best version of myself. Only when I am at peace internally, can I be kind and gentle to others. Namaste. :pray:
 
 **Janelle Monáe** - What a powerhouse. Janelle is the kind of woman I want to be. I’m not sure what that means yet, I am just starting to figure out what I see in her.
 
