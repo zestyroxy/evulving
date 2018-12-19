@@ -63,7 +63,7 @@ There are many other authors out there that I love, but I relate most to Kate. S
 
 **Adriene Mishler** - Adriene makes yoga accessible to the world via her YouTube channel and brand [Yoga with Adriene](http://youtube.com/yogawithadriene). She makes you feel at ease on the mat by being her joking self. One of Adriene’s mantras is “choose to let go”. I repeat it to myself often because letting go is friggin’ hard. The world can feel so serious and heavy. Through her practice, Adriene has taught me to shed that weight. I also learned that I don’t have to be perfect at yoga or in life. 
 
-Yoga has become essential to my day. I always leave the mat feeling happier and lighter. Not once have I told myself “I really regret taking the time to do yoga today”. Adriene helped me look up to the best version of myself. Only when I am at peace internally, can I be kind and gentle to others. Namaste. :pray:
+Yoga has become essential to my day. I always leave the mat feeling happier and lighter. Not once have I told myself “I really regret taking the time to do yoga today”. Adriene helped me look up to the best version of myself. Only when I am at peace internally, can I be kind and gentle to others. Namaste. &#128591
 
 **Janelle Monáe** - What a powerhouse. Janelle is the kind of woman I want to be. I’m not sure what that means yet, I am just starting to figure out what I see in her.
 
