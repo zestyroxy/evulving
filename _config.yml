@@ -22,9 +22,9 @@ url: "https://www.evulving.com" # the base hostname & protocol for your site, e.
 show_excerpts: true
 
 social:
-  twitter: https://twitter.com/evulving
   instagram: https://www.instagram.com/evulving
   email: mailto:zestyroxy@gmail.com
+  #twitter: https://twitter.com/evulving
   #youtube-square: https://www.youtube.com/channel/UC3u3YZ35NU1Zl3zxRH3d7OA
   #linkedin-square: https://linkedin.com/in/<username>
   #facebook-official: https://facebook.com/<username>
