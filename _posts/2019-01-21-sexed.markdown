@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Chapter 13 | '90s sex-ed in Ontario"
+title:  "Chapter 13 | Sex-ed: 2019 vs 1990s"
 date:   2019-01-21 17:55:42 +0200
 image: /images/classroom.jpg
 card: summary_large_image
