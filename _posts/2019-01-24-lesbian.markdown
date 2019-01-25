@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Chapter 14 | Are you a lesbian?"
-date:   2019-01-21 17:55:42 +0200
+date:   2019-01-24 17:55:42 +0200
 image: /images/lesbian.jpg
 card: summary_large_image
 keywords: I didn't know I was bisexual, dodie helped me realize I was bi, are you a lesbian, stigmas around lesbians, I am bi, how did I find out I was bi
