@@ -20,7 +20,7 @@ I now realize that wrestling was and is sexist. I haven’t watched a recent epi
 
 In the future, I would like to see even more diverse wrestlers and the pressure to look like models disappear. That goes for men and women, there’s no need for breast implants or unrealistic steroid muscles. I want to see awesome fights and to look up to people that are real.
 
-![Women's Royal Rumble 2018](/images/royalrumble2018.jpg) 
+![Women's Royal Rumble 2018](/images/royalrumble2018.jpg)  
 *Source: [wwe.com](https://www.wwe.com/shows/royalrumble/2018/royal-rumble-womens-match)*
 
 **Side note**: Before writing this chapter, I went down an Internet rabbit hole about wrestling and found a promising book, [Unladylike: A Grrl's Guide to Wrestling](https://unbound.com/books/unladylike/) by Heather Bandenburg. It has yet to be published, but I’m really looking forward to reading it. I’m happy to see that there are cool wrestling communities out there. I also recommend the author’s blog post [Women's Wrestling Is A Feminist Act In Itself](https://www.huffingtonpost.co.uk/entry/feminist-killjoys-the-unlikely-saviours-of-wrestling_uk_5b59d8c0e4b08c2f0a5e0ff2). It’s a great read.
