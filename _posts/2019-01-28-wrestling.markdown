@@ -4,7 +4,7 @@ title:  "Chapter 15 | Is women's wrestling feminist?"
 date:   2019-01-28 17:15:42 +0200
 image: /images/wrestling.jpg
 card: summary_large_image
-keywords: female wrestling, glow, women wrestlers, wwe, world wrestling entertainment women, wrestling is feminist, is wrestling feminist, divas wwe, superstars wwe, female wrestlers, Unladylike: A Grrl's Guide to Wrestling, Heather Bandenburg
+keywords: "female wrestling, glow, women wrestlers, wwe, world wrestling entertainment women, wrestling is feminist, is wrestling feminist, divas wwe, superstars wwe, female wrestlers, Unladylike: A Grrl's Guide to Wrestling, Heather Bandenburg"
 ---
 Between the ages of eleven and thirteen, I became obsessed with wrestling. At the time, the popular TV shows were *WWF* (World Wrestling Federation) and *WCW* (World Championship Wrestling). My favourite wrestlers were Vampiro and Sting. I suppose I loved black and white makeup. I also liked other wrestlers, including Edge and Christian, the X-Factor (Triple H, Road Dog, Billy Gun and X-Pac), the Hardy Boyz and Lita, Steve Austin, Rey Mysterio, Kane and the Undertaker, and Trish Stratus.
 
