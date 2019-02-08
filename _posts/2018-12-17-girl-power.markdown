@@ -78,26 +78,26 @@ I feel thankful for these strong women I was able to watch and emulate. Without 
 ## Want more?
 For those of you who are curious, here are other women I looked/look up to and a brief reason why. They didn’t make the top list but that doesn’t mean they haven’t influenced me in some way. Here they are in alphabetical order:
 
-**Angelina Jolie**: *Lara Croft* needs no man to be a badass. Yes, she was dressed like that for men and there are practically no other women in the film, but she kicked ass.
-**Amy Poehler**: created an awesome TV series with diverse and awesome female characters.
-**Audrey Tautou**: Amélie Poulain for putting a quirky and whimsical character in the forefront.
-**Caitlin Moran**: for showing me I actually was a feminist.
-**Charlize Theron**: *Aeon Flux*. It wasn’t a great film, but we didn’t have many female superheroes around. I cut my hair like hers after I saw the movie. I still love her. If you haven’t seen the films Mad Max or Tully yet, go now!
-**Claire Danes and Kate Beckinsale**: for *Brokedown Palace*. Anything for friendship, not men.
-**Ellen Page**: a beautiful soul that still makes me want to roller derby.
-**Emma Stone**: *Easy A* and *the Help* where she fights for what’s right.
-**Emma Watson**: Hermione for punching Draco in the face.
-**Iliza Shlesinger**: a stand-up comedian that I can relate to. Most recent is her show Elder Millennial. She “dares” to talk about what it’s like to be 35 and I can totally relate.
-**Jen Kirkman**: a stand-up comedian and author. She’s a single unapologetic woman who is divorced and doesn’t want to have kids. She is happy and proud to represent women that have been shunned in the past.
-**Jennifer Lawrence**: I wanted to be brave like Katniss and wield a bow and arrow.
-**Jenny Lawson**: She wrote about mental health in a way that made me realize it was okay not to be okay.
-**Kate Bosworth, Michelle Rodriguez and Sanoe Lake**: they could totally rip in *Blue Crush*.
-**Kate McKinnon**: Hilarious and a ghostbuster.
-**Kate Winslet**: for *Eternal Sunshine of the Spotless Mind*. Life isn’t perfect, but erasing it would just make the good memories disappear with the bad ones. And her hair.
-**Kiera Knightly**: for not settling to be anything but equal to a man in *Pride and Prejudice* and for hating corsets and standing up to chauvinistic pirates in *Pirates of the Caribbean*.
-**Melissa Joan Hart**: Sabrina Spellman in *Sabrina the Teenage Witch* for being a witch. I thought her aunts were cool. Who needs a husband?
-**Tina Fey**: for teaching me to be a female boss in her book and for Liz Lemon. One of my colleagues used to call me Lemon because of her *30 Rock* character.
-**Trish Stratus**: for kicking ass in the wrestling ring when the *WWF* wasn’t very forward thinking and featured women as accessories to the male wrestlers. It’s because of women like her that things are slowly changing in the industry.
-**Zooey Deschanel**: From her role in *Elf*; I still want that tuque she wears at the end. Also for *500 Days of Summer* and *New Girl*. I love her voice. *She & Him* is my favourite Christmas album.
+**Angelina Jolie**: *Lara Croft* needs no man to be a badass. Yes, she was dressed like that for men and there are practically no other women in the film, but she kicked ass.  
+**Amy Poehler**: created an awesome TV series with diverse and awesome female characters.  
+**Audrey Tautou**: Amélie Poulain for putting a quirky and whimsical character in the forefront.  
+**Caitlin Moran**: for showing me I actually was a feminist.  
+**Charlize Theron**: *Aeon Flux*. It wasn’t a great film, but we didn’t have many female superheroes around. I cut my hair like hers after I saw the movie. I still love her. If you haven’t seen the films Mad Max or Tully yet, go now!  
+**Claire Danes and Kate Beckinsale**: for *Brokedown Palace*. Anything for friendship, not men.  
+**Ellen Page**: a beautiful soul that still makes me want to roller derby.  
+**Emma Stone**: *Easy A* and *the Help* where she fights for what’s right.  
+**Emma Watson**: Hermione for punching Draco in the face.  
+**Iliza Shlesinger**: a stand-up comedian that I can relate to. Most recent is her show Elder Millennial. She “dares” to talk about what it’s like to be 35 and I can totally relate.  
+**Jen Kirkman**: a stand-up comedian and author. She’s a single unapologetic woman who is divorced and doesn’t want to have kids. She is happy and proud to represent women that have been shunned in the past.  
+**Jennifer Lawrence**: I wanted to be brave like Katniss and wield a bow and arrow.  
+**Jenny Lawson**: She wrote about mental health in a way that made me realize it was okay not to be okay.  
+**Kate Bosworth, Michelle Rodriguez and Sanoe Lake**: they could totally rip in *Blue Crush*.  
+**Kate McKinnon**: Hilarious and a ghostbuster.  
+**Kate Winslet**: for *Eternal Sunshine of the Spotless Mind*. Life isn’t perfect, but erasing it would just make the good memories disappear with the bad ones. And her hair.  
+**Kiera Knightly**: for not settling to be anything but equal to a man in *Pride and Prejudice* and for hating corsets and standing up to chauvinistic pirates in *Pirates of the Caribbean*.  
+**Melissa Joan Hart**: Sabrina Spellman in *Sabrina the Teenage Witch* for being a witch. I thought her aunts were cool. Who needs a husband?  
+**Tina Fey**: for teaching me to be a female boss in her book and for Liz Lemon. One of my colleagues used to call me Lemon because of her *30 Rock* character.  
+**Trish Stratus**: for kicking ass in the wrestling ring when the *WWF* wasn’t very forward thinking and featured women as accessories to the male wrestlers. It’s because of women like her that things are slowly changing in the industry.  
+**Zooey Deschanel**: From her role in *Elf*; I still want that tuque she wears at the end. Also for *500 Days of Summer* and *New Girl*. I love her voice. *She & Him* is my favourite Christmas album.  
 
 Who gave you your girl power? Tell me #Evulving on social media #Evulving and follow @Evulving on [Instagram](https://www.instagram.com/evulving/).
