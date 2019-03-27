@@ -25,12 +25,12 @@ Last year, I met a few awesome gamers. These women told me about *Twitch.tv*, a 
 
 I did a little research and I can tell you that finding proof of sexism in gaming is too easy. The derogatory term now used for female gamers on *Twitch* is *Twitch Thots*. Here’s the lovely definition of the term as found on Urban Dictionary. 
 
->“A girl that is using Twitch.tv as near porn website to get donations from young boys. The girl is fully aware of what she is doing but if someone calls her out she is gonna defend herself by saying that someone is sexist.”
+>“A girl that is using Twitch.tv as near porn website to get donations from young boys. The girl is fully aware of what she is doing but if someone calls her out she is gonna defend herself by saying that someone is sexist.”  
 -[Urban Dictionary](https://www.urbandictionary.com/define.php?term=Twitch%20Thot)
 
 You may think this is harmless “banter”, but it’s not. Every woman on that channel is referred to as a *Twitch thot*. Female streamers get harassed and threatened on a daily basis, just for being there. In some cases, the women get “doxed”, which means that their private and identifying information is shared online, making the person vulnerable to stalkers or worse. 
 
->“The idea behind “Twitch thot” is that some women on Twitch use their bodies and sex appeal to build an audience, rather than create “quality content. For some reason, it really bothers certain people (i.e., misogynists) that women can make a lot of money, and they just can’t accept that a woman can be attractive and good at what she does.”
+>“The idea behind “Twitch thot” is that some women on Twitch use their bodies and sex appeal to build an audience, rather than create “quality content. For some reason, it really bothers certain people (i.e., misogynists) that women can make a lot of money, and they just can’t accept that a woman can be attractive and good at what she does.”  
 -Alex Dalbey, [Making fun of ‘Twitch thots’ is still a thing, apparently](https://www.dailydot.com/parsec/xqc-felix-lengyel-twitch-thots/), The Daily Dot 
 
 This is a big problem and it isn’t taken seriously. There are few traditional news outlets discussing the problem, even though the gaming industry is huge, each of the popular online gaming platforms such as *Xbox Live* and *PlayStation Network* have between 10 to 90 million daily users. I found this [great article from the Guardian](https://www.theguardian.com/culture/2017/oct/24/hey-dude-do-this-the-last-resort-for-female-gamers-escaping-online-abuse) addressing what women have to deal with when gaming online. Here’s a snippet: “One of the key issues with multiplayer gaming online, says McGrane, is that the abuse is rarely taken in earnest – even when women report it to moderators.” 
