@@ -54,3 +54,10 @@ On International Women’s Day, *PlayStation* put out this free theme for PS4. I
 In 2019, women should be able to game without being harassed and men should feel confident enough in themselves to welcome female gamers. Wouldn’t it be more fun without all the hate? 
 
 I’m disappointed in humanity and in myself. When I gamed, I thought it was just me. I didn’t realize that this was a major problem and kept it to myself. Until now. We need to talk about the problem and change the gaming culture. How do we do that? By embracing feminism. Speak up and force a positive change.
+
+**NEW** Anita Sarkeesian on Gamergate and Sexism: Watch this video to really see how bad it is in the gaming industry.
+<p>
+  <div class='embed-container'>
+    <iframe src='https://www.youtube.com/embed/ggyVXHU0_ms' frameborder='0' allowfullscreen></iframe>
+  </div>
+</p>
