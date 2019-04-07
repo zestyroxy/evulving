@@ -22,16 +22,16 @@ Here are some of the rules Canadian students are expected to respect:
 
 You may be thinking, “these rules are normal”. I’m here to say that they’re sexist and have become ridiculous. Dress codes were invented as guidelines meant to inform participants (in this case students) of what a proper attire is for a certain event (school). But, that’s a vague definition. What is proper? I believe the ultimate goal is to prevent nudity and the display of offensive images or expressions. 
 
-Unfortunately, dress codes haven’t evolved over time. They don’t reflect today’s society and what’s more, they make women their main target. Online, you’ll find too many instances where the dress codes were used to shame school girls and expel them from class. Here are more [https://www.thisisinsider.com/school-dress-code-rules-controversy-2018-8](ridiculous examples).
+Unfortunately, dress codes haven’t evolved over time. They don’t reflect today’s society and what’s more, they make women their main target. Online, you’ll find too many instances where the dress codes were used to shame school girls and expel them from class. Here are more [ridiculous examples](https://www.thisisinsider.com/school-dress-code-rules-controversy-2018-8).
 
-In this article by the [https://nationalpost.com/news/canada/school-dress-codes-have-valid-purpose-administrators-say-as-opposition-grows-louder](National Post), school officials say that “Standards are needed for safety reasons and to prevent clothes from becoming a distraction in the classroom [...] Such rules also prepare students for the working world.” I would like to know what these “safety reasons” are. Someone’s clothing should never be the reason they are in danger—unless they are a superhero wearing a cape, that’s just asking for trouble. 
+In this article by the [National Post](https://nationalpost.com/news/canada/school-dress-codes-have-valid-purpose-administrators-say-as-opposition-grows-louder), school officials say that “Standards are needed for safety reasons and to prevent clothes from becoming a distraction in the classroom [...] Such rules also prepare students for the working world.” I would like to know what these “safety reasons” are. Someone’s clothing should never be the reason they are in danger—unless they are a superhero wearing a cape, that’s just asking for trouble. 
 
-The world is clearly changing, yet, we hold ourselves up to these “proper” clothing standards and we’re doomed without them. What’s the problem with wearing a hat in class? Apparently, it’s a sign of disrespect; “gentlemen don’t wear hats indoors”. This is an outdated rule and should be abolished. It doesn’t have any meaning or benefit today. Because of this rule, an 8-year-old girl was told to [https://nationalpost.com/news/canada/thats-the-rule-principal-defends-decision-to-ban-b-c-girl-from-wearing-headscarf-to-keep-hair-out-of-face](stop wearing a headscarf) to school or to stop attending class altogether. 
+The world is clearly changing, yet, we hold ourselves up to these “proper” clothing standards and we’re doomed without them. What’s the problem with wearing a hat in class? Apparently, it’s a sign of disrespect; “gentlemen don’t wear hats indoors”. This is an outdated rule and should be abolished. It doesn’t have any meaning or benefit today. Because of this rule, an 8-year-old girl was told to [stop wearing a headscarf](https://nationalpost.com/news/canada/thats-the-rule-principal-defends-decision-to-ban-b-c-girl-from-wearing-headscarf-to-keep-hair-out-of-face) to school or to stop attending class altogether. 
 
 <div class="image center" markdown="1">
 ![Effie Trinket Head Scarf](/images/effie-trinket-please.jpg)
-*Effie Trinket in The Hunger Games (rocking a head scarf)*
-*Source:[https://wajimakeup.co/effie-trinket-no-makeup/](wajimakeup.co)*
+*Effie Trinket in The Hunger Games (rocking a head scarf)*<br>
+*Source: [wajimakeup.co](https://wajimakeup.co/effie-trinket-no-makeup/)*
 </div>
 
 As a student you’re already worried about so many things—clothing shouldn’t be an added stress and humiliation factor. I remember being reprimanded in high school for my clothes (my neckline was too low). I had to wear my winter jacket in class or be sent home (21 km away). 
