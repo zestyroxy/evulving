@@ -6,9 +6,11 @@ image: /images/talk-evulving.jpg
 card: summary_large_image
 keywords: sexism talk, vulva talk, stand-up comedy sexism, body positivity talk, female empowerment speech
 ---
-This post will be a little different than usual, because I've been doing a different kind of writing. You see, I was invited to do a talk in front of a live audience. I spent the last month writing a 10-minute speech about body positivity and empowerment. I wanted it to be fun, so I gave the talk in stand-up format. It was inspired by a few of my favourite comedians (including Hannah Gadsby). It was my first time doing stand-up—I love giving myself a challenge. 
+This post is different that usual, because a month ago I was invited to perform a piece about this blog in front of a live audience. What an opportunity! I didn't want to waste it. 
 
-I rehearsed the talk and the jokes multiple times a day for a week, rewriting jokes and adding new ones as I went. I wanted to get this right. In the end, the show went great and, most importantly, the audience laughed. Unfortunately, the live event (and the laughs) were not recorded, so I performed my set in my living room for you.
+I spent the last four weeks writing a 10-minute speech on the topics of body positivity and empowerment. I wanted it to be fun, which is why I chose to do a stand-up routine inspired by a few of my favourite comedians (including Hannah Gadsby). It was my first time doing stand up. Yes, I love challenging myself. 
+
+I rehearsed the talk and the jokes multiple times a day for a week, rewriting jokes and adding new ones as I went. I needed to get this right. In the end, the show went great and, most importantly, the audience laughed. Unfortunately, the live event (and the laughs) were not recorded, so I performed my set in my living room for you.
 
 <p>
   <div class='embed-container'>
@@ -16,4 +18,4 @@ I rehearsed the talk and the jokes multiple times a day for a week, rewriting jo
   </div>
 </p>
 
-Let me know your thoughts in the YouTube comments. 
+Let me know your thoughts in the comments of the YouTube video. 
