@@ -21,7 +21,7 @@ When her *Stripped* album came out, I fell in love with Xtina. She owned her sex
 
 <div class="image center" markdown="1">
 ![Yes gif](/images/fighter-christina.gif)
-*Source: [giphy.com](https://giphy.com/gifs/xtina-christina-aguilera-fighter-3oFzmpxyb3C93qsbWE)*
+*Source: [giphy.com](https://giphy.com/gifs/xtina-christina-aguilera-fighter-3oFzmpxyb3C93qsbWE){:target="_blank"}*
 </div>
 
 Eventually, I “outgrew” Christina because I learned everything I needed to from her powerful voice. She awoke the feminist in me.
@@ -46,7 +46,7 @@ I can’t remember where I read this, but apparently, you look up to people when
 
 The women I currently look up to are:
 
-**Leena Norms** - Leena works in publishing for *Penguin VINTAGE*. In her own time, she shares her passion for books and writing on [YouTube](https://www.youtube.com/user/jsutkissmyfrog). Her book love is contagious. She has helped me rediscover the wonders of reading again! I want to ooze book enthusiasm just like her.
+**Leena Norms** - Leena works in publishing for *Penguin VINTAGE*. In her own time, she shares her passion for books and writing on [YouTube](https://www.youtube.com/user/jsutkissmyfrog){:target="_blank"}. Her book love is contagious. She has helped me rediscover the wonders of reading again! I want to ooze book enthusiasm just like her.
 
 I’ve met Leena in person and what she portrays on social media isn’t for show, it’s her real self. I admire that. She also strives to grow by learning more about herself and the world around her. She then kindly summarizes what she’s learned and shares it with the world on YouTube and by hosting a podcast called *I’m not being funny but…* Her podcast addresses topics people are afraid to ask questions about in order to remove the stigmas.
 
@@ -58,10 +58,10 @@ There are many other authors out there that I love, but I relate most to Kate. S
 
 <div class="image center" markdown="1">
 ![Yes gif](/images/meredith.gif)
-*Source: [giphy.com](https://giphy.com/gifs/happy-sad-mentalhealth-zp7OYhZdyeb8k )*
+*Source: [giphy.com](https://giphy.com/gifs/happy-sad-mentalhealth-zp7OYhZdyeb8k){:target="_blank"}*
 </div>
 
-**Adriene Mishler** - Adriene makes yoga accessible to the world via her YouTube channel and brand [Yoga with Adriene](http://youtube.com/yogawithadriene). She makes you feel at ease on the mat by being her joking self. One of Adriene’s mantras is “choose to let go”. I repeat it to myself often because letting go is friggin’ hard. The world can feel so serious and heavy. Through her practice, Adriene has taught me to shed that weight. I also learned that I don’t have to be perfect at yoga or in life.
+**Adriene Mishler** - Adriene makes yoga accessible to the world via her YouTube channel and brand [Yoga with Adriene](http://youtube.com/yogawithadriene){:target="_blank"}. She makes you feel at ease on the mat by being her joking self. One of Adriene’s mantras is “choose to let go”. I repeat it to myself often because letting go is friggin’ hard. The world can feel so serious and heavy. Through her practice, Adriene has taught me to shed that weight. I also learned that I don’t have to be perfect at yoga or in life.
 
 Yoga has become essential to my day. I always leave the mat feeling happier and lighter. Not once have I told myself “I really regret taking the time to do yoga today”. Adriene helped me look up to the best version of myself. Only when I am at peace internally, can I be kind and gentle to others. Namaste. :pray:
 
@@ -100,4 +100,4 @@ For those of you who are curious, here are other women I looked/look up to and a
 **Trish Stratus**: for kicking ass in the wrestling ring when the *WWF* wasn’t very forward thinking and featured women as accessories to the male wrestlers. It’s because of women like her that things are slowly changing in the industry.  
 **Zooey Deschanel**: From her role in *Elf*; I still want that tuque she wears at the end. Also for *500 Days of Summer* and *New Girl*. I love her voice. *She & Him* is my favourite Christmas album.  
 
-Who gave you your girl power? Tell me #Evulving on social media #Evulving and follow @Evulving on [Instagram](https://www.instagram.com/evulving/).
+Who gave you your girl power? Tell me #Evulving on social media #Evulving and follow @Evulving on [Instagram](https://www.instagram.com/evulving/){:target="_blank"}.
