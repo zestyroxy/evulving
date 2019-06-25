@@ -10,7 +10,7 @@ keywords: "is cosmo bad?, is cosmo feminist?, should I stop reading cosmo?, open
 
 *Cosmo* has taught me many important things I might have missed out on otherwise. I read about pleasuring myself, periods, sex, and health from a source that is put together carefully every month. Unfortunately, it’s a print magazine, so it also brings along damaging information and unrealistic expectations about what it’s like to be a woman. I’m not here to put 100% of the blame *Cosmo* for my insecurities about my appearance, unconscious biases, or the internalized sexism embedded into my brain—but I’m sure it has contributed to it.
 
-This month, I got curious and wanted to know if the magazine and its content had changed since I first got my hands on an issue in 2002. I went on the [Cosmo website*](https://www.cosmopolitan.com/) and found the five following headlines:
+This month, I got curious and wanted to know if the magazine and its content had changed since I first got my hands on an issue in 2002. I went on the [Cosmo website*](https://www.cosmopolitan.com/){:target="_blank"} and found the five following headlines:
 
 * **Fans Are Worried That Lady Gaga and Her Fiancé Have Broken Up After Her Grammys Appearance**  
 Let's examine the evidence, shall we?
@@ -23,9 +23,9 @@ But not before going on an epic rant.
 * **8 Ways to Upgrade Your Tinder Profile So You Get *All* the Matches**  
 Step away from the sunglass pic.
 
-*Note *I visited [cosmopolitan.com](https://www.cosmopolitan.com/) on February 12, 2019*
+*Note *I visited [cosmopolitan.com](https://www.cosmopolitan.com/){:target="_blank"} on February 12, 2019*
 
-My first impression was that *Cosmo* is far more into clickbaity gossip than it used to be. What are celebrities doing? Who are they dating? How hot or not do they look? Readers love celebrity gossip and the competition is fierce now that the Internet makes sharing news and information immediate and disposable. The monthly *Cosmo* magazine can’t tackle important and current topics like [Jennifer Aniston’s Lit Birthday Party](https://www.cosmopolitan.com/entertainment/celebs/a26289443/jennifer-aniston-birthday-party/) in print, because it’s only relevant for a day. That’s why their website and social media channels have become important for them to remain relevant. Whatever gets more clicks and subscriptions will be the content they provide and that means trashy articles of zero added value. Gossip sells, but it’s also toxic.
+My first impression was that *Cosmo* is far more into clickbaity gossip than it used to be. What are celebrities doing? Who are they dating? How hot or not do they look? Readers love celebrity gossip and the competition is fierce now that the Internet makes sharing news and information immediate and disposable. The monthly *Cosmo* magazine can’t tackle important and current topics like [Jennifer Aniston’s Lit Birthday Party](https://www.cosmopolitan.com/entertainment/celebs/a26289443/jennifer-aniston-birthday-party/){:target="_blank"} in print, because it’s only relevant for a day. That’s why their website and social media channels have become important for them to remain relevant. Whatever gets more clicks and subscriptions will be the content they provide and that means trashy articles of zero added value. Gossip sells, but it’s also toxic.
 
 The *Love* tab is full of sex positions for same sex couples and lesbian couples. The drawings do depict some racial diversity, which is nice to see, but they still have a long way to go to make it inclusive. Finally the *Politics* section was a pleasant surprise. The editors don’t post there everyday, but I think they should. There’s always something going on.
 
@@ -37,26 +37,26 @@ In the end, I found myself wondering “when was *Cosmo* founded?” and “what
 <div class="image center" markdown="1">
 ![Cosmopolitan Issue No.6 February 1888](/images/cosmo-february1886.jpg)
 The Cosmopolitan Issue No.6 February 1888  
-*Source: [Pinterest](https://www.pinterest.ca/pin/404268504028196570/)*
+*Source: [Pinterest](https://www.pinterest.ca/pin/404268504028196570/){:target="_blank"}*
 </div>
 
-For more than a century, *Cosmopolitan* featured now-famous authors like George Bernard Shaw and Mark Twain (Article: [When Cosmo Published Mark Twain](https://www.cosmopolitan.com/style-beauty/beauty/news/a15647/famous-authors-cosmopolitan/)). As we can see on the November 1917 cover below, most of these authors were men, but that slowly changed over time.
+For more than a century, *Cosmopolitan* featured now-famous authors like George Bernard Shaw and Mark Twain (Article: [When Cosmo Published Mark Twain](https://www.cosmopolitan.com/style-beauty/beauty/news/a15647/famous-authors-cosmopolitan/){:target="_blank"}). As we can see on the November 1917 cover below, most of these authors were men, but that slowly changed over time.
 
 <div class="image center" markdown="1">
 ![Cosmo November 1917 cover](/images/cosmo-november1917.jpg)
 November 1917  
-*Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Cosmopolitan-FC-November-1917.jpg)*
+*Source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Cosmopolitan-FC-November-1917.jpg){:target="_blank"}*
 </div>
 
 In the 1960s, the author of Sex and the Single Girl, Helen Gurley Brown, was looking for a publisher to make her magazine mock-up a reality. The *Hearst Corporation* was about to stop printing *Cosmopolitan* when Helen arrived on their doorstep. They decided to let her have a go at revamping the magazine. That’s when it became a women’s magazine.
 
 ## Time after time
-I believe it’s worth analyzing some of the covers together to examine the changes *Cosmo* has undergone over the years. I assembled random issues and broke down the headlines that appear on each individual cover. I didn’t analyze covers prior to 1960s because the target audience had changed. For more vintage covers, visit [https://www.pinterest.ca/vintagecosmo/](https://www.pinterest.ca/vintagecosmo/).
+I believe it’s worth analyzing some of the covers together to examine the changes *Cosmo* has undergone over the years. I assembled random issues and broke down the headlines that appear on each individual cover. I didn’t analyze covers prior to 1960s because the target audience had changed. For more vintage covers, visit [https://www.pinterest.ca/vintagecosmo/](https://www.pinterest.ca/vintagecosmo/){:target="_blank"}.
 
 ### October 1965
 <div class="image center" markdown="1">
 ![Cosmo October 1965 cover](/images/cosmo-october1965.jpg)
-*Source: [Pinterest](https://www.pinterest.ca/pin/404268504028443558/)*
+*Source: [Pinterest](https://www.pinterest.ca/pin/404268504028443558/){:target="_blank"}*
 </div>
 
 I’m not sure how you’re supposed to choose the sex of your baby, but I’m curious. I would have opened the magazine, just to learn about a possible new scientific discovery. The nose headline surprised me, were women concerned about their noses in the ‘60s? I suppose that after the World Wars and the Great Depression, corporate America saw an opportunity to start becoming profitable at the expense of our media-fueled insecurities. 
@@ -67,14 +67,14 @@ I haven’t read any magazines from the ‘60s, but thankfully someone has done 
 
 >Every issue of Seventeen, Cosmo, and Ladies’ Home Journal I flipped through featured two or more ads for douches. Women's magazine publishers were obsessed with the stuff, apparently. Or addicted to the money the ads brought in. Either way, the message was clear: Vaginas are weird and meant to be treated as problems to be solved. Of course now we know the practice is not recommended by doctors, and can lead to yeast infections, bacterial vaginosis and, in some cases, ovarian and uterine infections.
 
--Caroline Thompson, [How to Be a Woman, According to 1960s Women's Magazines[(https://www.vice.com/en_uk/article/bjp4b4/how-to-be-a-woman-according-to-1960s-womens-magazines)
+-Caroline Thompson, [How to Be a Woman, According to 1960s Women's Magazines[(https://www.vice.com/en_uk/article/bjp4b4/how-to-be-a-woman-according-to-1960s-womens-magazines){:target="_blank"}
 
 **Note**: There are more gems about *Cosmo* in that article if you’re interested in reading further.
 
 ### November 1972
 <div class="image center" markdown="1">
 ![Cosmo November 1972 cover](/images/cosmo-november1972.jpg)
-*Source: [Pinterest](https://www.pinterest.ca/pin/33354853474180827/)*
+*Source: [Pinterest](https://www.pinterest.ca/pin/33354853474180827/){:target="_blank"}*
 </div>
 
 There are many more headlines than there were on the 1965 cover and some words are now underlined for emphasis. The editors at *Cosmo* discovered that sex sells, which is clear by Denise Hopkins’ decolté. It’s good news because it shows women that they can dress how they please.
@@ -83,7 +83,7 @@ The Sex Clinic article and the Sensual Quiz also stand out. Women, we love quizz
 
 The Avocado Diet surprised me, I guess avocados saw their popularity rise in the ‘70s too. It saddens me that the diet headlines were around then and are still today. The truth about vitamin E is definitely a teaser that would still be used now. The only thing that’s missing from the headline is “the answer will shock you!”
 
-The divorce headline is in keeping with the times. In 1970, the no-fault divorce law was introduced to the United-States. This law allows for divorces “in which the dissolution of a marriage doesn’t require a showing of wrongdoing by either party.” ([Wikipedia](https://en.wikipedia.org/wiki/No-fault_divorce)) Divorce was definitely on the rise and didn’t stop rising until the 1980s.
+The divorce headline is in keeping with the times. In 1970, the no-fault divorce law was introduced to the United-States. This law allows for divorces “in which the dissolution of a marriage doesn’t require a showing of wrongdoing by either party.” ([Wikipedia](https://en.wikipedia.org/wiki/No-fault_divorce){:target="_blank"}) Divorce was definitely on the rise and didn’t stop rising until the 1980s.
 
 I’m pleased to see a story on Bernadette Delvin. She was a politician and an Irish civil rights leader. It’s great to see that *Cosmo* was featuring strong inspiring stories about women.
 There are also many books listed on the cover—five on this issue only, including three female authors.
@@ -91,7 +91,7 @@ There are also many books listed on the cover—five on this issue only, includi
 ### March 1988
 <div class="image center" markdown="1">
 ![Cosmo March 1988 cover](/images/cosmo-march1988.jpg)
-*Source: [Pinterest](https://www.pinterest.ca/pin/304767099766064962/)*
+*Source: [Pinterest](https://www.pinterest.ca/pin/304767099766064962/){:target="_blank"}*
 </div>
 
 The cover is flashier and the print quality has improved. It also features a famous model, Cindy Crawford, but her name isn’t mentioned anywhere. 
@@ -105,7 +105,7 @@ Headlines oriented towards men also started making appearances: “To Understand
 ### April 1990
 <div class="image center" markdown="1">
 ![Cosmo April 1990 cover](/images/cosmo-april1990.jpg)
-*Source: [Pinterest](https://www.pinterest.ca/pin/670051250780403841/)*
+*Source: [Pinterest](https://www.pinterest.ca/pin/670051250780403841/){:target="_blank"}*
 </div>
 
 Once again, an unnamed-skinny-white model (Christy Turlington) is featured on the cover. The content is focused on marriage, when in the ‘70s were all about divorce. Job-related headlines are still around, but less than the previous cover. I like the empowerment behind the headline: “Why Smart Companies Are Crazy About Women Executives”.
@@ -117,7 +117,7 @@ I don’t know what was written in the “How Men Feel When Women Make the First
 ### May 2004
 <div class="image center" markdown="1">
 ![Cosmo May 2004 cover](/images/cosmo-may2004.jpg)
-*Source: [Tendskin](https://www.tendskin.com/m_TSLiquid.html)*
+*Source: [Tendskin](https://www.tendskin.com/m_TSLiquid.html){:target="_blank"}*
 </div>
 
 The print quality has improved once again, but this cover is overwhelming. The font size, styles and format, the colours. It’s very LOUD. The cover models are consistently music of film celebrities, they are also mentioned on the cover along with a story or an interview. The late 1990’s and early 2000’s is really when celebrities started being venerated. 
@@ -127,7 +127,7 @@ There are many, many headlines about sex and how to please men. Diets and physic
 ### April 2013
 <div class="image center" markdown="1">
 ![Cosmo April 2013 cover](/images/cosmo-april2013.jpg)
-*Source: [models.com](https://models.com/work/cosmopolitan-cosmopolitan-april-2013-covers)*
+*Source: [models.com](https://models.com/work/cosmopolitan-cosmopolitan-april-2013-covers){:target="_blank"}*
 </div>
 
 The celebrity trend continues with Kim Kardashian. Sadly, the accompanying article is about her “having it all!” This cover’s headlines are less convoluted and therefore easier to read, although everything is still loud and bold. This is thanks to the flood of magazines on the newsstands, each issue needs to catch your eye.
@@ -139,7 +139,7 @@ What other lovely gifts does this cover bring? Sex tips, why guys pull away, how
 ### December 2018
 <div class="image center" markdown="1">
 ![Cosmo December 2018 cover](/images/cosmo-december2018.jpg)
-*Source: [Magzter.com](https://www.magzter.com/US/Hearst-magazines/Cosmopolitan/Fashion/311379)*
+*Source: [Magzter.com](https://www.magzter.com/US/Hearst-magazines/Cosmopolitan/Fashion/311379){:target="_blank"}*
 </div>
 
 The most recent issue is this one, featuring Hailee Steinfeld. The cover is clean and the tagline is “QUICK & HOT SEX TIPS”. The headlines are more about female readers, which is nice. I like the idea of finding what works for you when it comes to your ambitions and reducing stress. Unfortunately, I couldn’t care less about knowing whether or not I have the Markle Sparkle.
@@ -149,7 +149,7 @@ In many ways, the magazine hasn’t changed much since the ‘70s, which is an a
 
 >"I wanted my magazine to be their best friend, a platform from which I could tell them what I'd learned and talk about all the things that hadn't been discussed before. I wanted to tell the truth: that sex is one of the three best things out there, and I don't even know what the other two are."
 
--Helen Gurley Brown, [How Cosmo Changed the World](https://www.cosmopolitan.com/lifestyle/a1746/about-us-how-cosmo-changed-the-world/)
+-Helen Gurley Brown, [How Cosmo Changed the World](https://www.cosmopolitan.com/lifestyle/a1746/about-us-how-cosmo-changed-the-world/){:target="_blank"}
 
 Editors are only human and the patriarchy is strong, but I believe the magazine has become less feminist and more damaging to women over time. As a teen, I felt like this magazine was my best friend. It’s only now that I realize that it was the bad kind of BFF, the one that tells you you’re fat, shames you for not buying the latest style of jeans and tells you that you’re uncool if you don’t blow your boyfriend.
 
