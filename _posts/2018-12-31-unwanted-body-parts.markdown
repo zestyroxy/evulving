@@ -29,7 +29,7 @@ I didn’t know this then, but my areolas were especially puffed up because we w
 
 It was only in my twenties that I finally saw someone with my breast type. I was watching a movie and there was a locker room scene with many topless women. One of the extras had my breast type. Relief flooded my brain. I don’t remember the movie, the actress or anything else. I just remember thinking, I am not alone!
 
-My breasts have gotten bigger, but their shape has never changed. The areolas change depending on the temperature of my body and state of arousal. My normal nipple state is between “puffy” and “protruding” (I got these terms from [this article](https://helloclue.com/articles/cycle-a-z/boobs-varieties-breast-shapes-nipple-types)). Most of the time, my nipple will protrude out a little bit, but if my body is warm, my areola gets bigger or “puffy” and the nipple and areola flesh blend together. If my body is cold, the nipples stick out and the areolas get a little bumpy because of skin contractions.
+My breasts have gotten bigger, but their shape has never changed. The areolas change depending on the temperature of my body and state of arousal. My normal nipple state is between “puffy” and “protruding” (I got these terms from [this article](https://helloclue.com/articles/cycle-a-z/boobs-varieties-breast-shapes-nipple-types){:target="_blank"}). Most of the time, my nipple will protrude out a little bit, but if my body is warm, my areola gets bigger or “puffy” and the nipple and areola flesh blend together. If my body is cold, the nipples stick out and the areolas get a little bumpy because of skin contractions.
 
 I still don’t like looking at my breasts when they are warm. The shame hasn’t fully left my brain, but I am working on accepting my boobs as they are.
 
@@ -55,9 +55,9 @@ Next, find some positive influences. Here’s what I do. Feel free to steal my i
 1. Subscribe and pay for magazines, books, films and other media that show all types of bodies shapes and colours.
 2. Tell myself I am beautiful. Even if it made me cry at first, repeating a positive mantra helps alter negative thoughts.
 3. Do Yoga with Adriene. Her kind words taught me to love my body.
-4. Listen to the [Live Awake](https://soundcloud.com/liveawakepodcast) podcast. She teaches love, kindness and self-acceptance.
+4. Listen to the [Live Awake](https://soundcloud.com/liveawakepodcast){:target="_blank"} podcast. She teaches love, kindness and self-acceptance.
 5. Share my insecurities. Talking to friend usually proves to be the best medicine. It helps me realize everyone is in the same boat. Afterwards, I leave the conversation thinking, why the hell do we waste our time worrying about our appearances?
 
 When the self-hate comes, remind yourself that they are just thoughts. Then imagine, you didn’t have the parts that you hate? I wouldn’t have thighs, areolas or an upper lip. There are over 7.5 billion people on earth and they all live inside a body that is both unique and similar to yours. There are certainly individuals out there that look like you and worry about the same “problems” you do. Accept and take care of your body. It’s a wonderful tool you can use to do what you want to do. Shed the hate and do something you love instead.
 
-Share your thoughts on social media #Evulving and follow @Evulving on [Instagram](https://www.instagram.com/evulving/).
+Share your thoughts on social media #Evulving and follow @Evulving on [Instagram](https://www.instagram.com/evulving/){:target="_blank"}.
