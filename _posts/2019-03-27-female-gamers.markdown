@@ -26,29 +26,29 @@ Last year, I met a few awesome gamers. These women told me about *Twitch.tv*, a 
 I did a little research and I can tell you that finding proof of sexism in gaming is too easy. The derogatory term now used for female gamers on *Twitch* is *Twitch Thots*. Here’s the lovely definition of the term as found on Urban Dictionary. 
 
 >“A girl that is using Twitch.tv as near porn website to get donations from young boys. The girl is fully aware of what she is doing but if someone calls her out she is gonna defend herself by saying that someone is sexist.”  
--[Urban Dictionary](https://www.urbandictionary.com/define.php?term=Twitch%20Thot)
+-[Urban Dictionary](https://www.urbandictionary.com/define.php?term=Twitch%20Thot){:target="_blank"}
 
 You may think this is harmless “banter”, but it’s not. Every woman on that channel is referred to as a *Twitch thot*. Female streamers get harassed and threatened on a daily basis, just for being there. In some cases, the women get “doxed”, which means that their private and identifying information is shared online, making the person vulnerable to stalkers or worse. 
 
 >“The idea behind “Twitch thot” is that some women on Twitch use their bodies and sex appeal to build an audience, rather than create “quality content. For some reason, it really bothers certain people (i.e., misogynists) that women can make a lot of money, and they just can’t accept that a woman can be attractive and good at what she does.”  
 -Alex Dalbey, [Making fun of ‘Twitch thots’ is still a thing, apparently](https://www.dailydot.com/parsec/xqc-felix-lengyel-twitch-thots/), The Daily Dot 
 
-This is a big problem and it isn’t taken seriously. There are few traditional news outlets discussing the problem, even though the gaming industry is huge, each of the popular online gaming platforms such as *Xbox Live* and *PlayStation Network* have between 10 to 90 million daily users. I found this [great article from the Guardian](https://www.theguardian.com/culture/2017/oct/24/hey-dude-do-this-the-last-resort-for-female-gamers-escaping-online-abuse) addressing what women have to deal with when gaming online. Here’s a snippet: “One of the key issues with multiplayer gaming online, says McGrane, is that the abuse is rarely taken in earnest – even when women report it to moderators.” 
+This is a big problem and it isn’t taken seriously. There are few traditional news outlets discussing the problem, even though the gaming industry is huge, each of the popular online gaming platforms such as *Xbox Live* and *PlayStation Network* have between 10 to 90 million daily users. I found this [great article from the Guardian](https://www.theguardian.com/culture/2017/oct/24/hey-dude-do-this-the-last-resort-for-female-gamers-escaping-online-abuse){:target="_blank"} addressing what women have to deal with when gaming online. Here’s a snippet: “One of the key issues with multiplayer gaming online, says McGrane, is that the abuse is rarely taken in earnest – even when women report it to moderators.” 
 
-Companies have codes of conducts and community guidelines, but they are usually written by men and moderators who don’t take the harassment reports seriously. *Twitch* updated their [community guidelines in 2018](https://www.twitch.tv/p/legal/community-guidelines/), but its effectiveness is debatable. Basically, nothing is being done about it. 
+Companies have codes of conducts and community guidelines, but they are usually written by men and moderators who don’t take the harassment reports seriously. *Twitch* updated their [community guidelines in 2018](https://www.twitch.tv/p/legal/community-guidelines/){:target="_blank"}, but its effectiveness is debatable. Basically, nothing is being done about it. 
 
 According to *Statista*, nearly half of computer and video gamers in the United States are women. I’m sure this is not true for every country, but this shows that there are more female gamers than we think. So, why don’t companies care more about women?
 
 <div class="image center" markdown="1">
 ![Statista gamers USA](/images/statista-gamers-gender-usa.jpg)
-*Source: [statista.com](https://www.statista.com/statistics/232383/gender-split-of-us-computer-and-video-gamers/)*
+*Source: [statista.com](https://www.statista.com/statistics/232383/gender-split-of-us-computer-and-video-gamers/){:target="_blank"}*
 </div>
 
 On International Women’s Day, *PlayStation* put out this free theme for PS4. It’s great that they are embracing a large part of their user base, but they need to do more to stop harassment—not just for women, but for everyone.
 
 <div class="image center" markdown="1">
 ![PS4 Women's Day Theme](/images/ps4-womens-day-2019.jpg)
-*Source: [comicbook.com](https://comicbook.com/gaming/2019/03/07/ps4-playstation-theme-free/)*
+*Source: [comicbook.com](https://comicbook.com/gaming/2019/03/07/ps4-playstation-theme-free/){:target="_blank"}*
 </div>
 
 In 2019, women should be able to game without being harassed and men should feel confident enough in themselves to welcome female gamers. Wouldn’t it be more fun without all the hate? 
