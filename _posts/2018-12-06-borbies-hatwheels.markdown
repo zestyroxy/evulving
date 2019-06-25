@@ -18,7 +18,7 @@ I am four years old. My grandfather is dressed up as Santa Claus and is giving o
 
 <div class="image center" markdown="1">
 ![Barbie Ski Shop](/images/barbieskishop.jpg)
-*Source: [ebay.com](https://www.ebay.com/itm/VINTAGE-1991-BARBIE-SKI-FUN-SKI-SHOP-WINTER-HOLIDAY-PLAYSET-NEW-NIB-/121206282820?pt=LH_DefaultDomain_0&hash=item1c38751a44)*
+*Source: [ebay.com](https://www.ebay.com/itm/VINTAGE-1991-BARBIE-SKI-FUN-SKI-SHOP-WINTER-HOLIDAY-PLAYSET-NEW-NIB-/121206282820?pt=LH_DefaultDomain_0&hash=item1c38751a44){:target="_blank"}*
 </div>
 
 Looking back, I wish I had received something more gender neutral and educational. I also doubt that dressing my skinny disproportionate doll with deformed feet helped with my body image. I only played with that ski set a few times. I much preferred spending my playtime in my own imaginary water worlds, like Ariel island (my stomach) in the bathtub. I also had a kid-sized *McDonald’s* play restaurant, where I could sizzle burgers and serve people in my mini drive-thru (well played *McDonald's*). I also hosted my own radio show with my pink and purple recorder.
@@ -33,7 +33,7 @@ My love for video games persisted throughout my life. One Christmas, I got a *Ni
 
 <div class="image center" markdown="1">
 ![Banjo Kazookie N64](/images/banjokazooie.jpg)
-*Source: [nintendo.co.uk](https://www.nintendo.co.uk/Games/Nintendo-64/Banjo-Kazooie-269415.html)*
+*Source: [nintendo.co.uk](https://www.nintendo.co.uk/Games/Nintendo-64/Banjo-Kazooie-269415.html){:target="_blank"}*
 </div>
 
 **Play with my brother’s race tracks** - I would set it up and race my father or make the cars jump across tracks. I always wanted a new race track of my own, but I was told they were for boys. No racetrack appeared under our Christmas Tree. My only deduction: Santa is sexist.
@@ -42,7 +42,7 @@ My love for video games persisted throughout my life. One Christmas, I got a *Ni
 
 <div class="image center" markdown="1">
 ![Marble Maze](/images/marblemaze.jpg)
-*Source: [amazon.com](https://www.amazon.com/Original-Toy-Company-Building-45-Piece/dp/B002611X3E)*
+*Source: [amazon.com](https://www.amazon.com/Original-Toy-Company-Building-45-Piece/dp/B002611X3E){:target="_blank"}*
 </div>
 
 **Play with my brother’s LEGO** - I would create the highest tower possible with the number of LEGO at hand. I would then throw our LEGO spacemen inside it. There was always a door at the bottom so I could fetch the spacemen with my tiny fingers and make them fall down the building over and over again. Was this an anger management mechanism? I did later receive a LEGO present of my own. It was a girl with a horse, a stable and a car. It was, of course, pink, but I loved having a girl LEGO. She looked like me.
@@ -53,7 +53,7 @@ I looked up to my elder brother of nine years. He and I would always watch the *
 
 <div class="image center" markdown="1">
 ![TMNT Pizza Thrower](/images/pizzathrower.jpg)
-*Source: [Crooked Ninja](https://crookedninja.com/2014/03/pizza-thrower-a-history-of-reuse/)*
+*Source: [Crooked Ninja](https://crookedninja.com/2014/03/pizza-thrower-a-history-of-reuse/){:target="_blank"}*
 </div>
 
 One year, I received a TMNT tent. I went crazy! I had to sleep in it in the living room that night.
@@ -78,7 +78,7 @@ In 2015, my coworker and I raised money by hosting a Chili Cook-off at work. We 
 ![Nerf Rebelle Bow](/images/nerfgun-bow.jpg)
 </div>
 
-This is the toy we saw. Apparently, this bow and arrow was part of the Nerf Rebelle line and it was meant to reflect how girls are today: “active, competitive, fashion conscious and above all socially connected.” *View more of the Nerf Guns and sad explanation for colour choices in this ABC News Article: [Girls vs. Boys: How Hasbro's New Nerf Toys Compare](https://abcnews.go.com/Business/nerfs-toys-girls-compare-boys/story?id=25623002).*
+This is the toy we saw. Apparently, this bow and arrow was part of the Nerf Rebelle line and it was meant to reflect how girls are today: “active, competitive, fashion conscious and above all socially connected.” *View more of the Nerf Guns and sad explanation for colour choices in this ABC News Article: [Girls vs. Boys: How Hasbro's New Nerf Toys Compare](https://abcnews.go.com/Business/nerfs-toys-girls-compare-boys/story?id=25623002){:target="_blank"}.*
 
 Back at the store, we picked as many gender-neutral games and toys as we could and got out of there. My favourite was a cuddly rainbow coloured zebra.
 
@@ -90,11 +90,11 @@ At the time of writing, my friend tweeted a picture of a toy called “Boy’s B
 
 To be fair, things seem to be slowly changing. Let’s use Mattel, the company that makes *Barbie* and *Hot Wheels*, as an example. They have definitely utilised diversity to sell more toys. Are they trying to change their ways or just following the latest trend?
 
-Earlier this year, Mattel released a Frida Kahlo doll as part of an [*Inspiring Women* Series](https://barbie.mattel.com/en-us/about/role-models.html), along with seventeen others dolls representing women like Amelia Earhart and Katherine Johnson. Unfortunately, Mattel failed to ask for the rights to create a Frida doll ([read article](https://www.theguardian.com/artanddesign/2018/apr/20/frida-kahlo-barbie-doll-mexico-injunction)) and even made the decision to remove her iconic unibrow. The message sent by removing Frida’s unibrow: it’s not normal, not pretty and doesn’t conform to the beauty norms of our dolls. Who would buy a doll with a unibrow? Gross.
+Earlier this year, Mattel released a Frida Kahlo doll as part of an [*Inspiring Women* Series](https://barbie.mattel.com/en-us/about/role-models.html){:target="_blank"}, along with seventeen others dolls representing women like Amelia Earhart and Katherine Johnson. Unfortunately, Mattel failed to ask for the rights to create a Frida doll ([read article](https://www.theguardian.com/artanddesign/2018/apr/20/frida-kahlo-barbie-doll-mexico-injunction){:target="_blank"}) and even made the decision to remove her iconic unibrow. The message sent by removing Frida’s unibrow: it’s not normal, not pretty and doesn’t conform to the beauty norms of our dolls. Who would buy a doll with a unibrow? Gross.
 
 <div class="image center" markdown="1">
 ![Frida Barbie](/images/frida.jpg)
-*Source: [Mattel](https://barbie.mattel.com/shop/en-us/ba/inspiring-women-series/barbie-inspiring-women-series-frida-kahlo-doll-fjh65)*
+*Source: [Mattel](https://barbie.mattel.com/shop/en-us/ba/inspiring-women-series/barbie-inspiring-women-series-frida-kahlo-doll-fjh65){:target="_blank"}*
 </div>
 
 In 2016, Mattel announced the release of Diversity *Barbie*. They come in various shape, sizes, race, etc. It’s great that Mattel is now trying to represent different women and inspire girls to follow their dreams. I was just on their website and it was indeed more diverse, even featuring *Barbie* doctors, football players, yogis, engineers, journalists, pilot and astronauts. Most of them aren’t even wearing heels! They aren’t perfect—they are still *Barbie*—but it certainly is a step forward and we need more of that. I believe companies to should be more forward thinking and start producing toys representing the elderly, disabled and LGBTQAI+ humans out there.
@@ -103,4 +103,4 @@ The message we send to our kids when they are young is especially important. We 
 
 It’s sad that children need to see this segregation from the womb to the toy store, to school activities and onwards. If you’re a parent, explain to your child how media tries to trick us on many levels. Let’s all try to counter this discourse by choosing toys and media that reinforce equality and self-acceptance. Vote with your money.
 
-What were your favourite toys as a kid? I am so curious to read your responses! Tell me and include pictures #Evulving on social media #Evulving and follow @Evulving on [Instagram](https://www.instagram.com/evulving/).
+What were your favourite toys as a kid? I am so curious to read your responses! Tell me and include pictures #Evulving on social media #Evulving and follow @Evulving on [Instagram](https://www.instagram.com/evulving/){:target="_blank"}.
