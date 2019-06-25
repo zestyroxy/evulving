@@ -12,7 +12,7 @@ At nine-years-old, I got to compete at the regional level for the best free thro
 
 <div class="image center" markdown="1">
 ![Free Throw](/images/freethrow.gif)  
-*Source: [giphy.com](https://giphy.com/gifs/free-perfectloops-throw-9eydGMMHExjeU)*
+*Source: [giphy.com](https://giphy.com/gifs/free-perfectloops-throw-9eydGMMHExjeU){:target="_blank"}*
 </div>
 
 In primary school, we had co-ed gym classes. It loved it. I got to play slow-pitch again and learned how to play others sports like football (soccer). I always volunteered to be the goalie because I hated running. What I do remember from primary school gym class is the girls getting picked last. I was never the very last pick and sometimes got picked before other boys. I was proud to “not be like the other girls”, but now I see it was wrong. Sometimes, the teacher forced the team captains to choose their team by alternating the gender for each pick. That did help a little.
@@ -29,7 +29,7 @@ That same year, three of my old teammates and I joined a 3 vs.3 volleyball tourn
 
 <div class="image center" markdown="1">
 ![Yes gif](/images/yes.gif)  
-*Source: [giphy.com](https://giphy.com/gifs/thisisgiphy-reaction-audience-l4HodBpDmoMA5p9bG)*
+*Source: [giphy.com](https://giphy.com/gifs/thisisgiphy-reaction-audience-l4HodBpDmoMA5p9bG){:target="_blank"}*
 </div>
 
 In high school, every student had to take gym for the first two years. The weird thing to me is that they segregated girls from boys at that point. Why? Up until now we always had gym class together. Am I not able to play with the guys? Or did they think the guys couldn’t handle being in the same room as girls in shorts? Either way, it’s unfair to both genders. They should show girls that they are perfectly apt to play with the boys and show the boys that they can be in a room full of girls in shorts. Boys aren’t wild sex animals, they can control their urges. 
@@ -44,4 +44,4 @@ Even though it’s depressing that I was dismissed unless a man spoke up for me,
 
 That same year, I tried out for the girl’s basketball team and made it! It felt good to do what I loved again. We didn’t win many games, but that didn’t matter. Life shouldn’t be about winning but about giving everyone an equal chance to play. Girls don’t need to be protected from sports or kept from playing with boys. Girls need to know what it’s like to be part of a team, to sweat and to get that heart going. So, let’s all go out there and play without fear of shame, discrimination or harassment. Let’s throw like a kid again!
 
-**Extra-curricular reading**: whether you love sports or you think sports isn’t for me *at all*, then you need to read [Eat, Sweat, Play](https://www.goodreads.com/book/show/29324048-eat-sweat-play) by Anna Kessel. It’ll get your blood pumping, in a good way!
+**Extra-curricular reading**: whether you love sports or you think sports isn’t for me *at all*, then you need to read [Eat, Sweat, Play](https://www.goodreads.com/book/show/29324048-eat-sweat-play){:target="_blank"} by Anna Kessel. It’ll get your blood pumping, in a good way!
