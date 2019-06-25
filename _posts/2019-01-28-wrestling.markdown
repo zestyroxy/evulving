@@ -22,7 +22,7 @@ In the future, I would like to see even more diverse wrestlers and the pressure 
 
 <div class="image center" markdown="1">
 ![Women's Royal Rumble 2018](/images/royalrumble2018.jpg)
-*Source: [wwe.com](https://www.wwe.com/shows/royalrumble/2018/royal-rumble-womens-match)*
+*Source: [wwe.com](https://www.wwe.com/shows/royalrumble/2018/royal-rumble-womens-match){:target="_blank"}*
 </div>
 
-**Side note**: Before writing this chapter, I went down an Internet rabbit hole about wrestling and found a promising book, [Unladylike: A Grrl's Guide to Wrestling](https://unbound.com/books/unladylike/) by Heather Bandenburg. It has yet to be published, but I’m really looking forward to reading it. I’m happy to see that there are cool wrestling communities out there. I also recommend the author’s blog post [Women's Wrestling Is A Feminist Act In Itself](https://www.huffingtonpost.co.uk/entry/feminist-killjoys-the-unlikely-saviours-of-wrestling_uk_5b59d8c0e4b08c2f0a5e0ff2). It’s a great read.
+**Side note**: Before writing this chapter, I went down an Internet rabbit hole about wrestling and found a promising book, [Unladylike: A Grrl's Guide to Wrestling](https://unbound.com/books/unladylike/){:target="_blank"} by Heather Bandenburg. It has yet to be published, but I’m really looking forward to reading it. I’m happy to see that there are cool wrestling communities out there. I also recommend the author’s blog post [Women's Wrestling Is A Feminist Act In Itself](https://www.huffingtonpost.co.uk/entry/feminist-killjoys-the-unlikely-saviours-of-wrestling_uk_5b59d8c0e4b08c2f0a5e0ff2){:target="_blank"}. It’s a great read.
