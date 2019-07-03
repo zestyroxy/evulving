@@ -1,0 +1,41 @@
+---
+layout: page
+title:  "My voice"
+date:   2019-07-03 16:20:42 +0200
+image: /images/raspberry.jpg
+card: summary_large_image
+keywords: "why are female voices annoying, women voices, vocal fry, sexist voices, annoying voice, is my voice annoying"
+---
+When I was 18, my boyfriend C asked me to stop laughing so much because his older brother found it annoying. I laughed too much and too loudly. A few months later, his father told me that I had the voice of a kindergartner and I should “work on fixing that” because it was, you guessed it, annoying. And finally, on a vacation in the Carribean, his cousin’s new boyfriend told me “You know, your voice is really annoying.” Point taken.
+
+I’ve heard too many women tell me their voice is annoying. Just a few months ago, I was listening to a podcast and the speaker said she’d be putting off creating it because she thought her voice was too irritating. Where does this come from and why do other people feel comfortable telling us that our voices are bothersome?
+
+## Women should shut up
+It goes as far back as ancient Greece, wherein the Odyssey Book One, Penelope is told by her teenage son Telemachus that she is not welcome to engage in public discourse. And, in the Iliad Zeus tells Hera to shut up when she confronts him about the Trojan War. (2018, [https://theconversation.com/mary-beard-and-the-long-tradition-of-women-being-told-to-shut-up-94285](theconversation.com){:target="_blank"})
+
+Men have been convinced for a long time that women are dangerous, their voices especially so: 
+
+>“Other classical writers insisted that the tone and timbre of women’s speech always threatened to subvert not just the voice of the male orator but also the social and political stability, the health, of the whole state.” 
+― Mary Beard, *Women & Power: A Manifesto*
+
+Many people still believe this and it’s reflected in our everyday life. Here’s an example. Did you know that voice recognition software is sexist? It’s true. Rachel Tatman found that Google’s speech-recognition software has a gender bias. “[...] if you pick a random man and random woman from my sample, there’s an almost 70% chance the transcriptions will be more accurate for the man.” (2016, [https://makingnoiseandhearingthings.com/2016/07/12/googles-speech-recognition-has-a-gender-bias/](makingnoisesandhearingthings.com){:target="_blank"})
+
+Why is that? In short, it’s because the algorithms that train artificial intelligence (AI) software are programmed by men and they most often use the speech training database TIMIT to train the AI. In this database, 69% of the speech recordings are male. (p. 162-p.164, *Invisible women: exposing data bias in a world designed for men*, Caroline Criado Perez)
+
+So, what does this mean? There’s a gender gap in the data leading to technology that doesn’t recognize female voices. Many of these data gaps exist because we as humans just automatically omit cases and problems that don’t pertain to us. 
+You might be thinking, okay sure, but that’s not so bad? But it’s not just AIs. “Professor Tom McEnaney, who teaches a class called “Sounding American,” says the U.S. has a long history of men criticizing the way women speak. Sound technologies, starting with the gramophone and phonograph, he says, were developed for men’s voices — and distort women’s.” And this is still true today. Listen to this podcast, [https://soundcloud.com/fiat-vox-podcast/sounding-american-gender-and-politics](Fiat Vox 42: Why we think women sound shrill, immature for more information){:target="_blank"}. A [https://www.universityofcalifornia.edu/news/why-we-think-women-sound-shrill](transcript of the podcast){:target="_blank"} is also available. 
+
+This might partly explain why many women who speak into a microphone are criticised for being shrill. The “problem” that is our voice is then used to put us down and keep us from positions of power. An article in *The Conversation*, [http://theconversation.com/five-ways-the-media-hurts-female-politicians-and-how-journalists-everywhere-can-do-better-70771](Five ways the media hurts female politicians — and how journalists everywhere can do better){:target="_blank"}, stated that voices are one of the weapons used against female politicians. 
+
+Here’s the thing. There’s nothing wrong with female voices. We have just been told there was and the patriarchy uses is to silence us. We can go on TV and make the best argument, only to be criticized for the way we speak. It extends to more than our tone, but also the language we use. We use the word “like” too much, we say “sorry” too much, we talk using too many question marks. And so on. This is all a result of our sexist culture.
+
+## My voice
+I changed my voice without noticing. The negative comments dug into my subconscious and I started putting on a raspy voice to make it sound lower. It was my partner who pointed it out, “why do you sometimes do that with your voice?” I had no idea. It took months of actively working on it to stop changing it. He would say “raspberry” when I sounded raspy and then I just had to tell my brain “it’s okay, don’t force it, just talk”. The *Fiat Vox* podcast above made me realize I was doing what was called “vocal fry”. It’s “a kind of gravely low voice that you can also hear in other celebrities like Zooey Deschanel, Katy Perry and Britney Spears.” (2018, [https://www.universityofcalifornia.edu/news/why-we-think-women-sound-shrill](Why we think women sound shrill){:target="_blank"})
+
+I slowly learned to embrace my voice. It’s how I sound. It’s part of what makes me, me.
+
+Do the world a favour, don’t criticize other women’s voices, don’t apologize for voicing your opinions and don’t let anyone silence you or tell you that your voice is annoying. It’s not. 
+
+**Extracurricular learning**
+* Read about gender gaps in data in the book, *Invisible women: exposing data bias in a world designed for men* by Caroline Criado Perez. 
+* Listen to Mary Beard speaks about Women in Power in this [https://youtu.be/VGDJIlUCjA0](video){:target="_blank"}
