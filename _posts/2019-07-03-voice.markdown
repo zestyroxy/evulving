@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "My voice"
+title:  "Chapter 30 | My voice"
 date:   2019-07-03 16:20:42 +0200
 image: /images/raspberry.jpg
 card: summary_large_image
