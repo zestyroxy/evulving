@@ -1,0 +1,50 @@
+---
+layout: page
+title:  "Chapter 32 | Sexist Breakfast"
+date:   2019-09-15  19:50:42 +0200
+image: /images/cereal.jpg
+card: summary_large_image
+keywords: "sexist cereal, female cereal mascots, male-only cereal mascots"
+---
+Cereals are innocent, right? Wrong. It dawned on me at breakfast the other day: there are no female cereal mascots, except for that one unicorn I saw on *Fruit Loops* this year.
+
+<div class="image center" markdown="1">
+![Kellogg's Fruit Loops 2019](/images/kelloggs_fruit_loops.jpg)
+</div>
+
+*Source: [Kelloggs.com](https://www.kelloggs.com.au/en_AU/products/unicorn-froot-loops.html){:target="_blank"}*
+
+Here are the *Fruit Loops* offerings in Australia. Why does female mean unicorn or mermaid? Have you ever seen a female cereal mascot? The only one I could find is Loopy, the mascot for Honey Pops Loops. It’s competitor *Honey Nut Cheerios* features a male character called BuzzBee, whom I know from my childhood.
+
+<div class="image center" markdown="1">
+![Bee cereal mascots](/images/bees.jpg)
+</div>
+
+*Sources: [Loops (Kellogg's)](https://www.amazon.co.uk/Kelloggs-Honey-Bsss-Loops-330g/dp/B004AVCNQ4/){:target="_blank"} and [BuzzBee (General Mills)](https://www.amazon.com/Cheerios-Honey-Cereal-12-25-Ounce-Boxes/dp/B003VZ7W52){:target="_blank"}*
+
+*Jezebel* tackled this topic in an [article in 2013](https://jezebel.com/ever-notice-that-there-aren-t-any-female-breakfast-cere-5993962){:target="_blank"} and another blog *The Sneeze* tackled this [in 2008](http://www.thesneeze.com/mt-archives/000754.php){:target="_blank"}. If this topic was brought up over 10 years ago, why has nothing changed?
+
+I did some research and found out that there used to be a few [female mascots](https://www.buzzfeed.com/louispeitzman/forgotten-cereal-mascots){:target="_blank"} in the 1970s. Did you know that Tony the Tiger has a wife? And the Corn Pops mascot used to be a porcupine named Poppy. Why did they get rid of her?
+
+I want to see a sporty tigress called Tonya and have her body slam Tony while saying she’s strong because of the “well-balanced” breakfast she’s eating. I want to see a non-binary mascot flying circles around Toucan Sam and his nephews, who are a little too reminiscent of Scrooge McDuck and his three nephews.
+
+Cereals aren’t the only culprit here. This topic was originally on my mind because of Clementine Ford’s book *Boys will be boys*. She pointed out that most character movies feature male heroes.
+
+* Monsters Inc.
+* Toy Story
+* WALL·E (EVE is there, but she’s secondary)
+* Transformers 
+* Cars (Sally is secondary to Lightning McQueen and Doc Hudson)
+* Up
+* Coco
+* Finding Nemo
+
+Here are a few great exceptions:
+* Inside Out
+* Brave
+* The Incredibles
+* Moana
+* Wreck-it Ralph (although the film is named after the man, not Vanellope)
+* Frozen (although Sven, Christoph and Olaf are males)
+
+It’s slowly changing, but still male-dominated and girls are usually “pretty” or “quirky” side-kicks. I want to be positive about the changes. Let’s support and demand more female heroes in our everyday lives!
