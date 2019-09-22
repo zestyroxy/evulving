@@ -43,4 +43,4 @@ Speaking from experience, it can be a difficult and painful—and yes, triggerin
 
 And even if you manage to articulate a calm “no, I don’t have or want kids”, the onslaught of follow-up questions that put you in a position of justification only serve to increase the pain. There are many ways to live a life, have meaning and experience love. And there are plenty of other, less invasive, topics. 
 
-**Author**: Alexandra Schladebeck
+**Author**: Alex Schladebeck
