@@ -14,5 +14,7 @@ I can talk about sexism as much as I want—and I will—but I can only speak fo
 
 I’m excited about this new chapter that *Evulving* is embarking on. It’s a safe space for everyone to share their experiences and make their voices heard. 
 
-Your voice is important too. Have an idea? Want to share it (anonymously or not)? <a href="mailto:zestyroxy@gmail?Subject=Evulving%20Guest%20Post">Email me</a>.</li>
+Your voice is important too. Have an idea? Want to share it (anonymously or not)? <a href="mailto:zestyroxy@gmail?Subject=Evulving%20Guest%20Post">Email me</a>.
 
+<div class="image center" markdown="1">
+![Writing](/images/guest.jpg)
