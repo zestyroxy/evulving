@@ -22,4 +22,5 @@ But it’s not all bad. This year, during the *Fifa World Cup* I read the follow
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My 4-year-old son: “Do boys play soccer?”</p>&mdash; Adam Beam (@adambeam) <a href="https://twitter.com/adambeam/status/1147909588131311616?ref_src=twsrc%5Etfw">July 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<br/>
 It made me happy—we’re starting to put women forward as strong and awesome. Keep it up, world!
