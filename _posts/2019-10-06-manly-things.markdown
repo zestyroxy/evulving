@@ -20,10 +20,12 @@ Earlier this year, I took a boxing class with a girlfriend. When I told my Germa
 
 But it’s not all bad. This year, during the *Fifa World Cup* I read the following on Twitter:
 
-<div class="image center" markdown="1">
+<div markdown="1">
 <a target="_blank" href="https://twitter.com/adambeam/status/1147909588131311616">
 ![Twitter post fifa](/images/twitterfifa.png)
 </a>
 </div>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My 4-year-old son: “Do boys play soccer?”</p>&mdash; Adam Beam (@adambeam) <a href="https://twitter.com/adambeam/status/1147909588131311616?ref_src=twsrc%5Etfw">July 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It made me happy—we’re starting to put women forward as strong and awesome. Keep it up, world!
