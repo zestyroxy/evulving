@@ -6,7 +6,7 @@ image: /images/boxing.jpg
 card: summary_large_image
 keywords: "manly things, not for girls, you're too pretty to do that, sport sexism"
 ---
-Have you ever shopped for something that is considered “manly”? How did it go? For me, it went horribly. I was treated as ignorant because of my boobs, I assume.
+We were raised to believe that many things in this world are for men only. Have you ever shopped for something that is considered “manly”? How did it go? For me, it went horribly. I was treated as ignorant because of my boobs, I assume.
 
 The item I wanted to purchase was a car. The Toyota car dealer wanted to sell me a Corolla without electric windows and a beige material interior for a higher price than the decked-out model listed online. He said, “it’s the only one left, if you don’t buy it now, it’ll be gone and you’ll be out of luck. It’s the *last* one.” Right. No, thanks. I ended up buying a Mazda.
 
@@ -25,7 +25,5 @@ But it’s not all bad. This year, during the *Fifa World Cup* I read the follow
 ![Twitter post fifa](/images/twitterfifa.png)
 </a>
 </div>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My 4-year-old son: “Do boys play soccer?”</p>&mdash; Adam Beam (@adambeam) <a href="https://twitter.com/adambeam/status/1147909588131311616?ref_src=twsrc%5Etfw">July 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It made me happy—we’re starting to put women forward as strong and awesome. Keep it up, world!
