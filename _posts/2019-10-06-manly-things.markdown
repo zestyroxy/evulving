@@ -20,7 +20,7 @@ Earlier this year, I took a boxing class with a girlfriend. When I told my Germa
 
 But it’s not all bad. This year, during the *Fifa World Cup* I read the following on Twitter:
 
-<div markdown="1">
+<div class="image left" markdown="1">
 <a target="_blank" href="https://twitter.com/adambeam/status/1147909588131311616">
 ![Twitter post fifa](/images/twitterfifa.png)
 </a>
