@@ -6,8 +6,7 @@ image: /images/split.jpg
 card: summary_large_image
 keywords: "women can never win, everyday sexism at work"
 ---
-"I have been told that I can’t do what I want to do because I am a woman, and I have been told that I have only been allowed to do what I have done because I am a woman."  
--  Hope Jahren, *[Lab Girl](https://www.goodreads.com/book/show/25733983-lab-girl){:target="_blank"}*
+"I have been told that I can’t do what I want to do because I am a woman, and I have been told that I have only been allowed to do what I have done because I am a woman." - Hope Jahren, *[Lab Girl](https://www.goodreads.com/book/show/25733983-lab-girl){:target="_blank"}*
 
 This passage from Hope’s book made me laugh. And then, it made me sad. because Hope’s a scientist and even though she’s talking about her personal experience, her words ring true. I’ve heard the same song myself. No matter what I undertook, someone has told me some version of that quote. Can’t we just accept that women can do what they want because they have the drive to do it?
 
