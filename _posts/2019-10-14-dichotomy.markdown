@@ -14,17 +14,5 @@ Here’s a small homework assignment:
 
 Think of a few instances where you were doing something and someone told you “you can’t do that” or “you only got this far” because you’re a woman, even if you were nailing it. 
  
-I leave you with some lyrics from *[The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70){:target="_blank"}* off Taylor Swift’s latest album for inspiration:
+Fun tip: listen to Taylor Swift's new song *[The Man](https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70){:target="_blank"}* for inspiration.
 
-*I'm so sick of running  
-As fast as I can  
-Wondering if I'd get there quicker  
-If I was a man*
-
-*And I'm so sick of them  
-Coming at me again  
-'Cause if I was a man  
-Then I'd be the man*
-
-*I'd be the man  
-I'd be the man*
