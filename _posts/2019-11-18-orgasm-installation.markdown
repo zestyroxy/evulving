@@ -20,10 +20,8 @@ I’ve created a short survey to help you, help me! Take your time when answerin
 
 So let‘s go! Let the masturbation begin!
 
-<a target="_blank" href="https://www.surveymonkey.de/r/3MF6JZP" class="button special">Complete the Survey</a>
-
-**Deadline to complete the survey: December 1, 2019**  
-(Don't worry, your answers will remain anonymous.)
+**Deadline to complete the survey was December 1, 2019**  
+We are no longer accepting responses.
 
 Thank you for taking the time to help me! I look forward to reading your answers. Another blog post about the installation will be published here when it's completed.
 
