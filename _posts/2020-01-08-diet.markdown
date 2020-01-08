@@ -53,6 +53,8 @@ I’m also done working out to lose weight. Instead of punishing my body, I do s
 
 Want to move your body in a loving way? I recommend [Yoga with Adriene’s 30-Day Journey](https://youtu.be/KWBfQjuwp4E){:target="_blank"} called Home. She always makes me feel good about myself and my body.
 
-<iframe src='https://youtu.be/KWBfQjuwp4E' frameborder='0' allowfullscreen></iframe>
-
-
+<p>
+  <div class='embed-container'>
+    <iframe src='https://www.youtube.com/embed/KWBfQjuwp4E' frameborder='0' allowfullscreen></iframe>
+  </div>
+</p>
