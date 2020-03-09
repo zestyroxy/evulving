@@ -52,12 +52,13 @@ You can have a closer look at the fourth stage (resolution/ intoxication), which
 </p>
 
 
-Questions or feedback? Contact me on Instagram [@m.erlemariie](http://instagram.com/m.erlemariie){:target="_blank"} or per email <a href="mailto:merle.marie.eckert@me.com?Subject=Do%20it%20yourself">email</a> 
+Questions or feedback? Contact me on Instagram [@m.erlemariie](http://instagram.com/m.erlemariie){:target="_blank"} or per <a href="mailto:merle.marie.eckert@me.com?Subject=Do%20it%20yourself">email</a> 
 
 Thank you for all the answers to my survey, you all contributed to the fact that I was able to implement this project. Thanks to all the people who gave me incredible support—also a big thanks to Roxanne who made it possible to publish my project here on evulving, you’re amazing! Lots of Love!
 
 XOXO Merle Eckert
 
 **Author:** Merle  
-**Instagram:** [@m.erlemariie](http://instagram.com/m.erlemariie){:target="_blank"}
-This is part 2 of the post [What's your orgasm like?] (/2019/11/18/orgasm-installation.html) from November 18, 2019.
+**Instagram:** [@m.erlemariie](http://instagram.com/m.erlemariie){:target="_blank"} 
+
+This is part 2 of the post [What's your orgasm like?](/2019/11/18/orgasm-installation.html) from November 18, 2019.
